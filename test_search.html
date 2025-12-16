@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quick Test</title>
+</head>
+<body>
+    <h1>Testing JSON Load</h1>
+    <div id="status">Loading...</div>
+    <script>
+        fetch('question_library_cross_year.json')
+            .then(response => {
+                console.log('Response status:', response.status);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log('Data loaded:', data);
+                document.getElementById('status').innerHTML = 
+                    `✅ Success! Loaded ${data.questions?.length || 0} questions, ${data.batteries?.length || 0} batteries`;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('status').innerHTML = 
+                    `❌ Error: ${error.message}<br><br>
+                    <strong>Solution:</strong> Use a local web server:<br>
+                    <code>python -m http.server 8000</code><br>
+                    Then open: <a href="http://localhost:8000/search.html">http://localhost:8000/search.html</a>`;
+            });
+    </script>
+</body>
+</html>
+

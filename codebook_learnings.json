@@ -1,0 +1,518 @@
+{
+  "spelling_truth": {
+    "för": {
+      "correct": "för",
+      "variants": {
+        "fär": 0,
+        "får": 50,
+        "för": 950
+      },
+      "most_common": "för"
+    },
+    "bör": {
+      "correct": "bör",
+      "variants": {
+        "bår": 0,
+        "bör": 189
+      },
+      "most_common": "bör"
+    },
+    "bekämpning": {
+      "correct": "bekämpning",
+      "variants": {
+        "bekåmpning": 0,
+        "bekämpning": 0
+      },
+      "most_common": "bekåmpning"
+    },
+    "förbud": {
+      "correct": "förbud",
+      "variants": {
+        "färbud": 0,
+        "förbud": 2
+      },
+      "most_common": "förbud"
+    },
+    "förtroende": {
+      "correct": "förtroende",
+      "variants": {
+        "färtroende": 0,
+        "förtroende": 386
+      },
+      "most_common": "förtroende"
+    },
+    "försvaret": {
+      "correct": "försvaret",
+      "variants": {
+        "färsvaret": 0,
+        "försvaret": 25
+      },
+      "most_common": "försvaret"
+    },
+    "miljö": {
+      "correct": "miljö",
+      "variants": {
+        "miljä": 0,
+        "miljö": 34
+      },
+      "most_common": "miljö"
+    },
+    "bästa": {
+      "correct": "bästa",
+      "variants": {
+        "båsta": 0,
+        "bästa": 28
+      },
+      "most_common": "bästa"
+    },
+    "kärnkraft": {
+      "correct": "kärnkraft",
+      "variants": {
+        "kårnkraft": 0,
+        "kärnkraft": 37
+      },
+      "most_common": "kärnkraft"
+    }
+  },
+  "abbreviation_usage": {
+    "månaderna": {
+      "\\bmån\\b": 39,
+      "\\bmånader\\b": 24,
+      "\\bmånaderna\\b": 145,
+      "\\bde\\s+senaste\\s+12\\s+mån": 110,
+      "\\bde\\s+senaste\\s+12\\s+månader": 104,
+      "\\bde\\s+senaste\\s+12\\s+månaderna": 104,
+      "\\bsenaste\\s+12\\s+mån": 128,
+      "\\bsenaste\\s+12\\s+månader": 110,
+      "\\bsenaste\\s+12\\s+månaderna": 110
+    },
+    "förtroende": {
+      "\\bförtroende\\s+för\\b": 6,
+      "\\bförtroende\\s+du\\s+har\\s+för\\b": 8,
+      "\\bhur\\s+stort\\s+förtroende\\b": 63
+    }
+  },
+  "recommendations": {
+    "encoding_fixes": {
+      "får": "för"
+    },
+    "abbreviation_normalization": {
+      "månaderna": {
+        "canonical": "12 månaderna",
+        "variants": [
+          "de senaste 12 månaderna",
+          "de senaste 12 mån",
+          "senaste 12 månaderna",
+          "senaste 12 mån",
+          "12 månaderna",
+          "12 månader",
+          "12 mån"
+        ]
+      }
+    },
+    "question_groupings": [],
+    "response_alternative_normalization": []
+  },
+  "sample_questions": [
+    [
+      2,
+      "DE FÖRSTA FRÄGORNA GÄLLER VILKA MASSMEDIER DU TAR DEL AV"
+    ],
+    [
+      2,
+      "FRÄGA l. Hur ofta brukar Du titta på eller lyssna till följande"
+    ],
+    [
+      2,
+      "typer av nyhetsprogram i radio och TV?"
+    ],
+    [
+      2,
+      "FRÄGA 2. Hur mycket brukar Du se på av följande typer av TV-program?"
+    ],
+    [
+      2,
+      "FRÄGA 3. Vilken morgontidning brukar Du läsa regelbundet?"
+    ],
+    [
+      2,
+      "läser mer än en morgontidning - ange vilken Du betraktar som"
+    ],
+    [
+      2,
+      "FRÄGA 4. om Du läser någon morgo,ntidning regelbundet - Ungefär hur"
+    ],
+    [
+      2,
+      "många gånger per vecka brukar Du läsa denna tidning?"
+    ],
+    [
+      3,
+      "Om nej, på vilket sätt har Du då tillgång till tidningen?"
+    ],
+    [
+      3,
+      "FRÄGA 6. Ungefär hur lång tid brukar Du ägna åt Din lokala morgontid"
+    ],
+    [
+      3,
+      "ning en genomsnittlig vardag?"
+    ],
+    [
+      3,
+      "FRÅGA 7. Hur mycket brukar Du läsa av följande typer av tidningsinne-"
+    ],
+    [
+      3,
+      "håll i Din lokala morgontidning?"
+    ],
+    [
+      3,
+      "dagar i veckan?"
+    ],
+    [
+      4,
+      "FRÅGA 9. Hur ofta brukar Du läsa följande kvällstidningar?"
+    ],
+    [
+      4,
+      "FRÄGA 10. Det finns delade meningar om huruvida de åsikter som en tid"
+    ],
+    [
+      4,
+      "något sätt brukar visa sina politiska åsikter på nyhets"
+    ],
+    [
+      4,
+      "gifter i massmedierna?"
+    ],
+    [
+      4,
+      "ledarplats?"
+    ],
+    [
+      5,
+      "iFRAGA 13. Hur stort förtroende har Du för det sätt på vilket följande"
+    ],
+    [
+      5,
+      "samhällsinstitutioner och grupper sköter sitt arbete?"
+    ],
+    [
+      5,
+      "~RÅGA 14. Hur pass intresserad är Du i allmänhet av politik?"
+    ],
+    [
+      5,
+      "15. Nedanstående lista omfattar ett antal förslag som förekorrunit"
+    ],
+    [
+      5,
+      "RAGA i den politiska debatten. Vilken är Din åsikt om vart och ett"
+    ],
+    [
+      5,
+      "förslag förslag dåligt förslag förslag"
+    ],
+    [
+      6,
+      "FRÄGA 16. Hur tycker Du regeringen sköter sin uppgift?"
+    ],
+    [
+      6,
+      "FRÅGA 17. Man talar ibland om att politiska åsikter kan placeras in på"
+    ],
+    [
+      6,
+      "själv på en sådan vänster-högerskala?"
+    ],
+    [
+      6,
+      "FRÅGA 18. Den här frågan gäller hur mycket man allmänt sett gillar res"
+    ],
+    [
+      6,
+      "ligen vilja placera de olika partierna på nedanstående skala?"
+    ],
+    [
+      7,
+      "FRÅGA 19. vilket parti tycker Du bäst om idag?"
+    ],
+    [
+      7,
+      "Anser Du Dig vara en övertygad anhängare av detta parti?"
+    ],
+    [
+      7,
+      "FRÅGA 20. Hur viktiga anser Du följande samhällsmål vara för de kom-"
+    ],
+    [
+      7,
+      "mande tio åren?"
+    ],
+    [
+      8,
+      "skulle avvecklas i Sverige till år 2010. Vad är Din åsikt om"
+    ],
+    [
+      8,
+      "kärnkraftens användning i sverige?"
+    ],
+    [
+      8,
+      "FRÄGA 22. Vilket eller vilka partier har en bra politik i energi- och"
+    ],
+    [
+      9,
+      "FRÄGA 23. Vad anser Du om följande risker som har diskuterats i sam"
+    ],
+    [
+      9,
+      "band med kärnkraften? Hur stor är risken för:"
+    ],
+    [
+      9,
+      "förvara kärnkraftens avfall på ett säkert sätt?"
+    ],
+    [
+      9,
+      "På kort sikt (närmaste 50 åren)"
+    ],
+    [
+      9,
+      "i Sverige år 2010?"
+    ],
+    [
+      10,
+      "några av de hittills orörda älvarna i Norrland?"
+    ],
+    [
+      10,
+      "FRÅGA 28. Hur stort förtroende har Du för följande grupper när det"
+    ],
+    [
+      10,
+      "gäller information om energi och kärnkraft?"
+    ],
+    [
+      11,
+      "verk Tjernobyl, vilken fick följder även för Sverige. Upp"
+    ],
+    [
+      11,
+      "fall något för att skydda Dig mot dessa risker?"
+    ],
+    [
+      11,
+      "FRÅGA 30. Hur pass intresserad är Du av följande fyra områden som rör"
+    ],
+    [
+      11,
+      "Sveriges relationer med omvärlden?"
+    ],
+    [
+      12,
+      "FRÅGA 32. Om Du ser till läget i världen idag, vad upplever Du själv"
+    ],
+    [
+      12,
+      "som mest oroande inför framtiden?"
+    ],
+    [
+      12,
+      "FRÅGA 33. Om Du tänker på Sverige 10-15 år framåt, hur tror Du den mili-"
+    ],
+    [
+      12,
+      "FRÄGA 34. Om sverige trots allt skulle bli indraget i ett krig, hur"
+    ],
+    [
+      12,
+      "stora möjligheter tror Du då att vi har att.försvara oss?"
+    ],
+    [
+      13,
+      "FRÅGA 35. Hur ställer Du Dig till följdnde förslag?"
+    ],
+    [
+      13,
+      "förslag förslag eller förslag förslag"
+    ],
+    [
+      13,
+      "Om det militära läget i vår närhet"
+    ],
+    [
+      13,
+      "~RÅGA 37. När det gäller Sovjet, tycker Du att regeringen under de"
+    ],
+    [
+      14,
+      "FRAGA 38. Vilken inställning har Du till Sveriges politik gentemot"
+    ],
+    [
+      14,
+      "D Hac ingen åsikt i frågan"
+    ],
+    [
+      14,
+      "FRÅGA 39. Vilken inställning har Du till Sveriges politik gentemot"
+    ],
+    [
+      14,
+      "den palestinska organisationen PLO?"
+    ],
+    [
+      14,
+      "U Har ingen åsikt i frågan"
+    ],
+    [
+      14,
+      "PLO:s uppträdande i Mellanösternkrisen?"
+    ],
+    [
+      14,
+      "FRÄGA 42. Hur vill Du karakterisera det område Du bor i?"
+    ],
+    [
+      14,
+      "FRÅGA 43. Hur länge har Du bott på orten?"
+    ],
+    [
+      15,
+      "från orten?"
+    ],
+    [
+      15,
+      "FRÅGA 45. Hur bor Du för närvarande?"
+    ],
+    [
+      15,
+      "FRÅGA 47. Om Du kunde välja helt fritt, var skulle Du då vilja bo?"
+    ],
+    [
+      15,
+      "försöker påverka Din närmiljö eller Ditt bostadsområde?"
+    ],
+    [
+      15,
+      "planera och besluta om saker som rör Din närmiljö eller Ditt"
+    ],
+    [
+      15,
+      "i sådant arbete?"
+    ],
+    [
+      16,
+      "fråga eller kommunens planer gällande Din närmiljö eller"
+    ],
+    [
+      16,
+      "Om ja, på vilket sätt försökte Du påverka kommunen?"
+    ],
+    [
+      16,
+      "Om nej, varför?"
+    ],
+    [
+      16,
+      "(205) D' Jag känner inte till hur kommunen fungerar och därför har jag inte"
+    ],
+    [
+      16,
+      "FRÄGA 51. Ange nedan i vilken/vilka föreningar Du är medlem samt hur"
+    ],
+    [
+      17,
+      "FRÅGA 52. Hur stort är Ditt intresse för nedanstående ämnen och akti-"
+    ],
+    [
+      18,
+      ".. svårare för människor i allmänhet?"
+    ],
+    [
+      18,
+      "FRÅGA 54. Hur viktiga är följande värden för Dig?"
+    ],
+    [
+      18,
+      "FRÅGA 55. Hur ofta händer det att Du läser eller tittar i följande"
+    ],
+    [
+      18,
+      "typer av tidningar?"
+    ],
+    [
+      19,
+      "TILL SIST NAGRA FRÄGOR OM DIG SJÄLV. NÄR SAMMANSTÄLLER RESULTATET"
+    ],
+    [
+      19,
+      "FRÅGA 56. Vilken av de här grupperna tillhör Du för närvarande?"
+    ],
+    [
+      19,
+      "U Älderspensionär"
+    ],
+    [
+      19,
+      "O Förtidspensionär"
+    ],
+    [
+      19,
+      "FRÅGA 57. vilket yrke har/hade Du?"
+    ],
+    [
+      19,
+      "FRÅGA 58. Arbetar/arbetade Du hel- eller deltid?"
+    ],
+    [
+      19,
+      "FRAGA 59. Vilken av de här yrkesgrupperna hör/hörde Du till?"
+    ],
+    [
+      20,
+      "FRÅGA 61- Är Du medlem i någon fackförening?"
+    ],
+    [
+      20,
+      "för närvarande tillhör) vilken av nedanstående kategorier"
+    ],
+    [
+      20,
+      "anser Du då att den tillhör?"
+    ],
+    [
+      20,
+      "FRÅGA 63. Om Du jämför Din ekonomiska situation med vad den var för"
+    ],
+    [
+      20,
+      "FRÅGA 64. Hur har enligt Din mening den svenska ekonomin förändrats"
+    ],
+    [
+      21,
+      "FRÄGA 65. Vilken skolutbildning har Du? Om Du ännu inte avslutat Din"
+    ],
+    [
+      21,
+      "FRÄGA 66. Vilket parti röstade Du på i riksdagsvalet 1985?"
+    ],
+    [
+      22,
+      "FRÅGA 68. Hur många personer ingår i Ditt hushåll? (Räkna med Dig"
+    ],
+    [
+      22,
+      "Hur många av dem är 0-6 år?"
+    ],
+    [
+      22,
+      "Hur många av dem är 7-18 år?"
+    ],
+    [
+      22,
+      "FRÅGA 70. Vilken av följande utrustning har Du för närvarande till"
+    ]
+  ]
+}

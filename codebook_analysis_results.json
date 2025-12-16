@@ -1,0 +1,32 @@
+{
+  "mån_counts": {
+    "de senaste 12 månaderna": 53,
+    "de senaste 12 mån": 3,
+    "senaste 12 månaderna": 57,
+    "senaste 12 mån": 10,
+    "12 månaderna": 66,
+    "12 månader": 4,
+    "12 mån": 19,
+    "under de senaste 12 månaderna": 48
+  },
+  "fortroende_counts": {
+    "förtroende för": 4,
+    "förtroende du har för": 4,
+    "hur stort förtroende": 32,
+    "hur stort förtroende har du för": 28
+  },
+  "hur_ofta_counts": {
+    "hur ofta under de senaste 12 månaderna": 2
+  },
+  "corruption_counts": {
+    "får (should be för)": 33,
+    "för (correct)": 488,
+    "bör (correct)": 88,
+    "förbud (correct)": 2,
+    "förtroende (correct)": 203
+  },
+  "recommendations": {
+    "mån_canonical": "hur ofta under de senaste 12 månaderna",
+    "hur_ofta_canonical": "hur ofta under de senaste 12 månaderna"
+  }
+}

@@ -1,0 +1,3440 @@
+{
+  "year": 2024,
+  "source_files": {
+    "spss": "Riks-SOM 2024.sav"
+  },
+  "total_questions": 103,
+  "questions_with_alternatives": 97,
+  "batteries": [
+    {
+      "variable": "alder4",
+      "question_text": "Ålder 4-delad,",
+      "sub_items": [
+        "standard",
+        "alternativ äldreindelning"
+      ],
+      "response_alternatives": [
+        "16-29 år",
+        "30-49 år",
+        "50-64 år",
+        "65+ år"
+      ]
+    },
+    {
+      "variable": "alder8",
+      "question_text": "Ålder 8-delad,",
+      "sub_items": [
+        "10-intervaller",
+        "detaljerade unga vuxna"
+      ],
+      "response_alternatives": [
+        "16-19 år",
+        "20-29 år",
+        "30-39 år",
+        "40-49 år",
+        "50-59 år",
+        "60-69 år",
+        "70-79 år",
+        "80+ år"
+      ]
+    },
+    {
+      "variable": "f1",
+      "question_text": "Hur ofta brukar du ta del av -",
+      "sub_items": [
+        "Lokala nyheter från Sveriges Radio",
+        "Ekonyheter från SR",
+        "P3 Nyheter från SR",
+        "Aktuellt/Rapport från SVT",
+        "Lokala nyheter från SVT",
+        "TV4 Nyheterna"
+      ],
+      "response_alternatives": [
+        "Dagligen",
+        "5-6 dagar vecka",
+        "3-4 dagar/vecka",
+        "1-2 dagar/vecka",
+        "Mer sällan",
+        "Aldrig"
+      ]
+    },
+    {
+      "variable": "f2",
+      "question_text": "",
+      "sub_items": [
+        "Morgontidning på papper",
+        "Morgontidning på papper",
+        "Jag läser aldrig någon morgontidning på papper"
+      ],
+      "response_alternatives": [
+        "Dagligen",
+        "5-6 dagar/vecka",
+        "3-4 dagar/vecka",
+        "1-2 dagar/vecka",
+        "Mer sällan"
+      ]
+    },
+    {
+      "variable": "f3",
+      "question_text": "Hur ofta",
+      "sub_items": [
+        "brukar du ta del av nyheter från? Aftonbladet: På papper",
+        "brukar du ta del av nyheter från? Aftonbladet: På internet",
+        "ta del av nyheter från? Expressen/GT/Kvällsposten: På papper",
+        "ta del av nyheter från? Expressen/GT/Kvällsposten: På internet"
+      ],
+      "response_alternatives": [
+        "Dagligen",
+        "5-6 dagar/vecka",
+        "3-4 dagar/vecka",
+        "1-2 dagar/vecka",
+        "Mer sällan",
+        "Aldrig"
+      ]
+    },
+    {
+      "variable": "f4",
+      "question_text": "Hur ofta ta del av, på internet?",
+      "sub_items": [
+        "Dagens Nyheter",
+        "Svenska Dagbladet",
+        "Lokala morgontidningar",
+        "Andra lokala nyhetssajter",
+        "Sveriges Radio",
+        "Sveriges Television",
+        "Utländska nyhetstjänster",
+        "Annan nyhetstjänst",
+        "Sociala medier",
+        "TV4",
+        "Jag tar aldrig del av nyheter på internet eller i mobila appar"
+      ],
+      "response_alternatives": [
+        "Dagligen",
+        "5–6 dagar/vecka",
+        "3–4 dagar/vecka",
+        "1–2 dagar/vecka",
+        "Mer sällan",
+        "Aldrig"
+      ]
+    },
+    {
+      "variable": "f5",
+      "question_text": "Hur ofta ta del av nyheter från följande?",
+      "sub_items": [
+        "Medier som tex Proletären, Flamman",
+        "Medier som tex Samnytt, Nya Tider, Nya Dagbladet, Swebb-tv"
+      ],
+      "response_alternatives": [
+        "Minst 5 dagar/vecka",
+        "3–4 dagar/vecka",
+        "1–2 dagar/vecka",
+        "Mer sällan",
+        "Aldrig"
+      ]
+    },
+    {
+      "variable": "f6",
+      "question_text": "Prenumeration",
+      "sub_items": [
+        "Prenumeration lokal morgontidning-Nej",
+        "lokal morgontidning-Ja papperstidning",
+        "lokal morgontidning-Ja, digital prenumeration",
+        "annan morgontidning-Nej",
+        "annan morgontidning-Ja papperstidning",
+        "annan morgontidning-Ja, digital prenumeration"
+      ],
+      "response_alternatives": [
+        "Ej Kryss",
+        "Kryss"
+      ]
+    },
+    {
+      "variable": "f8",
+      "question_text": "Instämmer i:",
+      "sub_items": [
+        "Nyheter i svenska medier är mycket tillförlitliga",
+        "Nyheter i svenska medier är mycket sakliga",
+        "Nyheter i svenska medier innehåller ofta missvisande uppgifter",
+        "Svenska medier har ofta en politisk agenda i sin nyhetsbevakning",
+        "Svenska medier undviker ofta att ta upp känsliga ämnen"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f10",
+      "question_text": "Ta del av nyheter om politik och samhälle i sociala medier?",
+      "sub_items": [
+        "Någon jag känner har delat nyheten",
+        "Någon jag känner har kommenterat nyheten",
+        "Någon jag följer men inte känner har delat nyheten",
+        "Någon jag följer men inte känner har kommenterat nyheten",
+        "Jag använder inte sociala medier"
+      ],
+      "response_alternatives": [
+        "Mycket viktigt",
+        "Ganska viktigt",
+        "Inte särskilt viktigt",
+        "Inte alls viktigt"
+      ]
+    },
+    {
+      "variable": "f11",
+      "question_text": "Vilket förtroende har du för innehållet hos",
+      "sub_items": [
+        "Sveriges Television (SVT)",
+        "TV3",
+        "TV4",
+        "Kanal 5",
+        "Sveriges Radio (SR)",
+        "Rix FM",
+        "Mix Megapol",
+        "Aftonbladet",
+        "Expressen",
+        "Dagens Nyheter",
+        "Svenska Dagbladet",
+        "Den lokala morgontidningen där du bor",
+        "Youtube",
+        "Facebook",
+        "Wikipedia",
+        "Netflix",
+        "Spotify",
+        "TikTok"
+      ],
+      "response_alternatives": [
+        "Mycket stort förtroende",
+        "Ganska stort förtroende",
+        "Varken stort eller litet förtroende",
+        "Ganska litet förtroende",
+        "Mycket litet förtroende",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f12",
+      "question_text": "Hur ofta ta del av nyheter och journalistik som handlar om?",
+      "sub_items": [
+        "Politik",
+        "Sjukvård och hälsa",
+        "Miljö och klimat",
+        "Ekonomi och näringsliv",
+        "Vetenskap och forskning",
+        "Brott och rättsväsende",
+        "EU",
+        "Immigration och integration"
+      ],
+      "response_alternatives": [
+        "Dagligen",
+        "5–6 dagar/vecka",
+        "3–4 dagar/vecka",
+        "1–2 dagar/vecka",
+        "Mer sällan",
+        "Aldrig"
+      ]
+    },
+    {
+      "variable": "f13",
+      "question_text": "Förtroende för svenska nyhetsmediers rapportering om?",
+      "sub_items": [
+        "Politik",
+        "Sjukvård",
+        "Miljö och klimat",
+        "Näringsliv",
+        "Forskning",
+        "Brottslighet",
+        "EU",
+        "Invandring"
+      ],
+      "response_alternatives": [
+        "Mycket stort förtroende",
+        "Ganska stort förtroende",
+        "Varken stort eller litet förtroende",
+        "Ganska litet förtroende",
+        "Mycket litet förtroende",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f14",
+      "question_text": "Hur ofta tar du del av nyheter som handlar om:",
+      "sub_items": [
+        "Området där du bor",
+        "Kommunen där du bor",
+        "Sverige",
+        "Andra länder"
+      ],
+      "response_alternatives": [
+        "Varje dag",
+        "5–6 dagar/vecka",
+        "3–4 dagar/vecka",
+        "1–2 dagar/vecka",
+        "Mer sällan",
+        "Aldrig"
+      ]
+    },
+    {
+      "variable": "f15",
+      "question_text": "Värde för svenska samhället?",
+      "sub_items": [
+        "Sveriges Television (SVT)",
+        "Sveriges Radio (SR)",
+        "TV4s kanaler (tex TV4, 7, C More)",
+        "Dagens Nyheter",
+        "Svenska Dagbladet",
+        "Aftonbladet",
+        "Expressen",
+        "Den lokala morgontidningen där du bor",
+        "Youtube",
+        "Facebook",
+        "Wikipedia",
+        "Netflix",
+        "TikTok"
+      ],
+      "response_alternatives": [
+        "Mycket stort värde",
+        "Ganska stort värde",
+        "Varken stort eller litet värde",
+        "Ganska litet värde",
+        "Mycket litet värde",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f16",
+      "question_text": "Hur ofta brukar du lyssna på?",
+      "sub_items": [
+        "P1 i Sveriges Radio",
+        "P2 i Sveriges Radio",
+        "P3 i Sveriges Radio",
+        "P4 i Sveriges Radio/Lokalradion",
+        "Rix FM",
+        "Mix Megapol",
+        "NRJ",
+        "Star FM",
+        "Annan kommersiell radio",
+        "Närradio"
+      ],
+      "response_alternatives": [
+        "Dagligen",
+        "5–6 dagar/vecka",
+        "3–4 dagar/vecka",
+        "1–2 dagar/vecka",
+        "Mer sällan",
+        "Aldrig"
+      ]
+    },
+    {
+      "variable": "f17",
+      "question_text": "Hur ofta brukar du lyssna på följande sätt?",
+      "sub_items": [
+        "Radioapparat",
+        "Bilradio",
+        "Dator: direktsändning",
+        "Dator: i efterhand/podcast",
+        "Mobil: direktsändning",
+        "Mobil: i efterhand/podcast",
+        "Surfplatta: direktsändning",
+        "Surfplatta: i efterhand/podcast",
+        "Röststyrd högtalare: direktsändning",
+        "Röststyrd högtalare: i efterhand/podcast"
+      ],
+      "response_alternatives": [
+        "Dagligen",
+        "5–6 dagar/vecka",
+        "3–4 dagar/vecka",
+        "1–2 dagar/vecka",
+        "Mer sällan",
+        "Aldrig"
+      ]
+    },
+    {
+      "variable": "f19",
+      "question_text": "Vilket värde anser du att innehållet från public service har?",
+      "sub_items": [
+        "För samhället i stort",
+        "För dig personligen"
+      ],
+      "response_alternatives": [
+        "Mycket stort värde",
+        "Ganska stort värde",
+        "Varken stort eller litet värde",
+        "Ganska litet värde",
+        "Mycket litet värde",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f20",
+      "question_text": "Hur ofta har du gjort följande på internet?",
+      "sub_items": [
+        "Hur ofta har du under de senaste 12 månaderna använt internet?",
+        "Hyrt eller hyrt ut bostad/semesterbostad",
+        "Använt dejtingtjänst",
+        "Använt e-post",
+        "Tagit del av nyheter/nyhetstjänst",
+        "Sökt information/fakta",
+        "Använt sociala medier (ex Facebook, Instagram, X, TikTok)",
+        "Spelat onlinespel",
+        "Köpt/beställt varor eller tjänster",
+        "Diskuterat politik i sociala medier",
+        "Använt valkompass",
+        "Läst artikelkommentarer",
+        "Kommenterat nyhetsartiklar",
+        "Lyssnat på radio",
+        "Tittat på film/tv-serier",
+        "Gjort ärenden hos myndighet",
+        "Gjort bankärenden",
+        "Använt myndighetsbrevlåda",
+        "Använt digital sjukvårdstjänst",
+        "Tittat på e-sport",
+        "Spelat på tips/trav/casino",
+        "Lärt mig nya saker genom Youtube",
+        "Använt en AI-chatbot privat",
+        "Använt en AI-chatbot i mitt arbete",
+        "Läst någon distansutbildning",
+        "Lyssnat på nyhetspoddar",
+        "Köpt läkemedel",
+        "Använt musiktjänst"
+      ],
+      "response_alternatives": [
+        "Ingen gång",
+        "Någon gång de senaste 12 mån",
+        "Någon gång i halvåret",
+        "Någon gång i månaden",
+        "Någon gång i veckan",
+        "Flera gånger i veckan",
+        "Dagligen"
+      ]
+    },
+    {
+      "variable": "f21",
+      "question_text": "Hur ofta under de senaste 12 mån har du?",
+      "sub_items": [
+        "Diskuterat en samhällsfråga eller uttryckt en åsikt i sociala medier?",
+        "Avstått från att uttrycka en åsikt i sociala medier av rädsla för att få ditt användarkonto avstängt?",
+        "Fått ditt användarkonto avstängt från sociala medier för att du uttryckt en åsikt?"
+      ],
+      "response_alternatives": [
+        "Ingen gång",
+        "Någon gång de senaste 12 mån",
+        "Någon gång i halvåret",
+        "Någon gång i månaden",
+        "Minst någon gång i veckan"
+      ]
+    },
+    {
+      "variable": "f22",
+      "question_text": "Om ditt användarkonto blivit avstängt, har du då fått information om:",
+      "sub_items": [
+        "Varför du blev avstängd?",
+        "Hur man överklagar avstängningen?"
+      ],
+      "response_alternatives": [
+        "Har inte fått mitt konto avstängt",
+        "Nej, jag har inte fått information",
+        "Ja, jag har fått information",
+        "Vet ej"
+      ]
+    },
+    {
+      "variable": "f24",
+      "question_text": "Förtroende för hur arbetet sköts?",
+      "sub_items": [
+        "Regeringen",
+        "Polisen",
+        "Sjukvården",
+        "Försvaret",
+        "Riksdagen",
+        "Bankerna",
+        "Dagspressen",
+        "De fackliga organisationerna",
+        "Radio och tv",
+        "Grundskolan",
+        "Storföretagen",
+        "Svenska kyrkan",
+        "Domstolarna",
+        "Riksbanken",
+        "Kungahuset",
+        "Kommunstyrelserna",
+        "Universitet/högskolor",
+        "De politiska partierna",
+        "EU-kommissionen",
+        "Europaparlamentet",
+        "Förenta Nationerna (FN)",
+        "Nato",
+        "Socialtjänsten",
+        "Ordningsvakter"
+      ],
+      "response_alternatives": [
+        "Mycket stort förtroende",
+        "Ganska stort förtroende",
+        "Varken stort eller litet förtroende",
+        "Ganska litet förtroende",
+        "Mycket litet förtroende"
+      ]
+    },
+    {
+      "variable": "f25",
+      "question_text": "Hur stort förtroende har du för:",
+      "sub_items": [
+        "Försäkringskassan",
+        "Säpo",
+        "Statistiska centralbyrån (SCB)",
+        "Systembolaget",
+        "Ekobrottsmyndigheten",
+        "Sveriges kommuner och regioner (SKR)",
+        "Arbetsförmedlingen"
+      ],
+      "response_alternatives": [
+        "Mycket stort förtroende",
+        "Ganska stort förtroende",
+        "Varken stort eller litet förtroende",
+        "Ganska litet förtroende",
+        "Mycket litet förtroende",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f26",
+      "question_text": "Vilket förtroende har du för följande institutioner?",
+      "sub_items": [
+        "Sjukvården",
+        "De politiska partierna",
+        "Socialstyrelsen",
+        "Biblioteken"
+      ],
+      "response_alternatives": [
+        "Mycket stort förtroende",
+        "Ganska stort förtroende",
+        "Varken stort eller litet förtroende",
+        "Ganska litet förtroende",
+        "Mycket litet förtroende",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f27",
+      "question_text": "Känner du till den verksamhet som bedrivs vid:",
+      "sub_items": [
+        "Statistiska centralbyrån (SCB)",
+        "Ekobrottsmyndigheten"
+      ],
+      "response_alternatives": [
+        "Inte alls",
+        "Inte särskilt väl",
+        "Ganska väl",
+        "Mycket väl"
+      ]
+    },
+    {
+      "variable": "f28",
+      "question_text": "Förtroende för hur arbetet sköts?",
+      "sub_items": [
+        "Rikspolitiker",
+        "Poliser",
+        "Journalister",
+        "Sjukvårdspersonal",
+        "Forskare",
+        "Officerare"
+      ],
+      "response_alternatives": [
+        "Mycket stort förtroende",
+        "Ganska stort förtroende",
+        "Varken stort eller litet förtroende",
+        "Ganska litet förtroende",
+        "Mycket litet förtroende"
+      ]
+    },
+    {
+      "variable": "f29",
+      "question_text": "Sköter sin uppgift? -",
+      "sub_items": [
+        "Arbetsförmedlingen",
+        "Försäkringskassan",
+        "Polisen",
+        "Skatteverket",
+        "Migrationsverket",
+        "Försvarsmakten",
+        "Säpo",
+        "Kriminalvården",
+        "Myndigheten för psykologiskt försvar",
+        "Skolinspektionen",
+        "Socialstyrelsen"
+      ],
+      "response_alternatives": [
+        "Mycket bra",
+        "Ganska bra",
+        "Varken bra eller dåligt",
+        "Ganska dåligt",
+        "Mycket dåligt",
+        "Ingen uppfattning",
+        "Känner ej till myndigheten"
+      ]
+    },
+    {
+      "variable": "f32",
+      "question_text": "Nöjd med det sätt på vilket demokratin fungerar i:",
+      "sub_items": [
+        "EU",
+        "Sverige",
+        "Regionen där du bor",
+        "Den kommun där du bor"
+      ],
+      "response_alternatives": [
+        "Mycket nöjd",
+        "Ganska nöjd",
+        "Inte särskilt nöjd",
+        "Inte alls nöjd"
+      ]
+    },
+    {
+      "variable": "f38",
+      "question_text": "",
+      "sub_items": [
+        "Vilket parti tycker du bäst om i dag?",
+        "Anser du dig vara en övertygad anhängare av detta parti?"
+      ],
+      "response_alternatives": [
+        "Vänsterpartiet",
+        "Socialdemokraterna",
+        "Centerpartiet",
+        "Liberalerna",
+        "Moderaterna",
+        "Kristdemokraterna",
+        "Miljöpartiet",
+        "Sverigedemokraterna",
+        "Annat parti:",
+        "Inget parti (svarat inget parti på fråga om annat parti)"
+      ]
+    },
+    {
+      "variable": "f39",
+      "question_text": "Var skulle du vilja placera?",
+      "sub_items": [
+        "Centerpartiet",
+        "Moderaterna",
+        "Vänsterpartiet",
+        "Liberalerna",
+        "Socialdemokraterna",
+        "Miljöpartiet",
+        "Kristdemokraterna",
+        "Sverigedemokraterna"
+      ],
+      "response_alternatives": [
+        "-5=Ogillar starkt",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0=Varken gillar eller ogillar",
+        "+1",
+        "+2",
+        "+3",
+        "+4",
+        "+5=Gillar starkt"
+      ]
+    },
+    {
+      "variable": "f40",
+      "question_text": "Var skulle du placera?",
+      "sub_items": [
+        "Muharrem Demirok",
+        "Ulf Kristersson",
+        "Nooshi Dadgostar",
+        "Johan Pehrson",
+        "Magdalena Andersson",
+        "Daniel Helldén",
+        "Amanda Lind",
+        "Ebba Busch",
+        "Jimmie Åkesson"
+      ],
+      "response_alternatives": [
+        "-5=Ogillar starkt",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0=Varken gillar eller ogillar",
+        "+1",
+        "+2",
+        "+3",
+        "+4",
+        "+5=Gillar starkt",
+        "Personen är okänd för mig"
+      ]
+    },
+    {
+      "variable": "f41",
+      "question_text": "Hur bra utför staten följande uppgifter?",
+      "sub_items": [
+        "Garanterar fria och rättvisa val",
+        "Garanterar medborgarnas säkerhet",
+        "Säkerställer frånvaro av korruption",
+        "Motverkar diskriminering",
+        "Garanterar välfärd för medborgarna",
+        "Involverar medborgare i politiska beslutsprocesser",
+        "Garanterar opartiska rättegångar för medborgare",
+        "Utjämnar skillnader mellan olika samhällsgrupper",
+        "Säkerställer en miljömässigt hållbar samhällsutveckling"
+      ],
+      "response_alternatives": [
+        "Mycket bra",
+        "Ganska bra",
+        "Inte särskilt bra",
+        "Inte alls bra"
+      ]
+    },
+    {
+      "variable": "f43",
+      "question_text": "Senaste 12 mån besökt aktörs sociala medier eller hemsidor?",
+      "sub_items": [
+        "Din kommun",
+        "Något politiskt parti",
+        "Någon riksdagspolitiker",
+        "Någon kommunpolitiker"
+      ],
+      "response_alternatives": [
+        "Ingen gång",
+        "Någon gång de senaste 12 mån",
+        "Någon gång i halvåret",
+        "Någon gång i månaden",
+        "Någon/några gånger i veckan"
+      ]
+    },
+    {
+      "variable": "f45",
+      "question_text": "Jag betraktar mig själv",
+      "sub_items": [
+        "Jag betraktar mig själv som… socialist",
+        "som… liberal",
+        "som… konservativ",
+        "som… feminist",
+        "som… nationalist",
+        "som… Annat"
+      ],
+      "response_alternatives": [
+        "Stämmer helt",
+        "Stämmer delvis",
+        "Stämmer inte särskilt bra",
+        "Stämmer inte alls"
+      ]
+    },
+    {
+      "variable": "f46",
+      "question_text": "Oroande inför framtiden?",
+      "sub_items": [
+        "Förändringar i jordens klimat",
+        "Korruption",
+        "Försämrad havsmiljö",
+        "Globala epidemier",
+        "Cyberattacker mot myndigheter",
+        "Ökande inflation",
+        "Ekonomisk kris",
+        "Politisk extremism",
+        "Att falsk information genererad med AI ska påverka demokratiska val",
+        "Organiserad brottslighet",
+        "Politisk instabilitet i Sverige",
+        "Ökat antal flyktingar",
+        "Ökad användning av narkotika",
+        "Militära konflikter",
+        "Inskränkningar i yttrandefriheten",
+        "Ökad stress i arbetslivet",
+        "Osäkra anställningsvillkor",
+        "Situationen i Ryssland",
+        "Ökad rasism",
+        "Digital övervakning",
+        "Ett nytt världskrig",
+        "Stor arbetslöshet",
+        "Miljöförstöring",
+        "Försvagad demokrati",
+        "Försämrad välfärd",
+        "Terrorism",
+        "Ökad främlingsfientlighet",
+        "Etniska motsättningar",
+        "Ökad antibiotikaresistens",
+        "Kärnkraftsolyckor",
+        "Ökade sociala klyftor"
+      ],
+      "response_alternatives": [
+        "Mycket oroande",
+        "Ganska oroande",
+        "Inte särskilt oroande",
+        "Inte alls oroande"
+      ]
+    },
+    {
+      "variable": "f47",
+      "question_text": "Brottsbekämpande myndigheter bör få använda?",
+      "sub_items": [
+        "Fast kameraövervakning av offentliga platser",
+        "Kroppsburna kameror",
+        "Hemlig dataavläsning",
+        "Ansiktsigenkänning",
+        "Fordonsburna kameror",
+        "Inhämtning av data från privata aktörer"
+      ],
+      "response_alternatives": [
+        "Bör alltid kunna användas",
+        "Bör kunna användas, men bara i undantagsfall",
+        "Bör aldrig kunna användas",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f48",
+      "question_text": "Påverkan på integritet att myndigheter använde?",
+      "sub_items": [
+        "Fast kameraövervakning av offentliga platser",
+        "Kroppsburna kameror",
+        "Hemlig dataavläsning",
+        "Ansiktsigenkänning",
+        "Fordonsburna kameror",
+        "Inhämtning av data från privata aktörer"
+      ],
+      "response_alternatives": [
+        "Mycket positivt",
+        "Ganska positivt",
+        "Varken positivt eller negativt",
+        "Ganska negativt",
+        "Mycket negativt"
+      ]
+    },
+    {
+      "variable": "f49",
+      "question_text": "Förtroende för följande nyheter?",
+      "sub_items": [
+        "Nyheter från svenska nyhetsmedier",
+        "Nyheter från nyhetsmedier utomlands"
+      ],
+      "response_alternatives": [
+        "Mycket stort förtroende",
+        "Ganska stort förtroende",
+        "Varken stort eller litet förtroende",
+        "Ganska litet förtroende",
+        "Mycket litet förtroende"
+      ]
+    },
+    {
+      "variable": "f50",
+      "question_text": "Instämmer i?",
+      "sub_items": [
+        "Sverige borde försvara ett annat Natoland om det attackeras",
+        "Andra Natoländer bör försvara Sverige om vi attackeras"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls"
+      ]
+    },
+    {
+      "variable": "f51",
+      "question_text": "I vilken grad känner du dig hotad av?",
+      "sub_items": [
+        "Miljöförstöring/klimatförändring",
+        "Ekonomisk kris",
+        "Epidemier/pandemier",
+        "Öppet våld och övergrepp utanför hemmet (tex rån, överfall och våldtäkt)",
+        "Våld och övergrepp i hemmet",
+        "Terrorism",
+        "Invandring",
+        "Att Sverige hotas av främmande makt",
+        "Att demokratin hotas",
+        "Falsk och vilseledande information från främmande makt",
+        "Artificiell intelligens (AI)"
+      ],
+      "response_alternatives": [
+        "I mycket liten grad",
+        "I ganska liten grad",
+        "I varken hög eller liten grad",
+        "I ganska hög grad",
+        "I mycket hög grad"
+      ]
+    },
+    {
+      "variable": "f53",
+      "question_text": "Instämmer i?",
+      "sub_items": [
+        "Det är viktigt för mig att fritt få uttrycka mina åsikter",
+        "I dagens politiska klimat kan jag inte öppet uttrycka mina åsikter eftersom andra kan tycka de är stötande",
+        "Det är viktigt för mig att fritt få röra mig i samhället, delta i sammankomster och i demonstrationer",
+        "Vid en samhällskris bör det vara möjligt att begränsa rätten att fritt få röra sig i samhället och att delta i sammankomster och i demonstrationer",
+        "Vid en samhällskris är det viktigt att alla fritt ska kunna kritisera regeringen och dess politik"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls"
+      ]
+    },
+    {
+      "variable": "f55",
+      "question_text": "Hur villig är du att hjälpa till -",
+      "sub_items": [
+        "Vid nödsituationer är jag villig att hjälpa till och samarbeta med blåljuspersonal",
+        "Vid kris bidra till det militära försvaret",
+        "Vid kris bidra till civilförsvaret"
+      ],
+      "response_alternatives": [
+        "I mycket liten grad",
+        "I ganska liten grad",
+        "I varken hög eller liten grad",
+        "I ganska hög grad",
+        "I mycket hög grad"
+      ]
+    },
+    {
+      "variable": "f56",
+      "question_text": "I vilken grad skulle du rätta dig efter nya lagar, regler och förordningar om?",
+      "sub_items": [
+        "Ett parti som du röstat på får makten",
+        "Ett parti som du tycker illa om får makten"
+      ],
+      "response_alternatives": [
+        "I mycket liten grad",
+        "I ganska liten grad",
+        "I varken hög eller liten grad",
+        "I ganska hög grad",
+        "I mycket hög grad"
+      ]
+    },
+    {
+      "variable": "f57",
+      "question_text": "",
+      "sub_items": [
+        "Är det någon av grupperna ovan som du ogillar starkt?",
+        "Gruppens nummer"
+      ],
+      "response_alternatives": [
+        "Ja, ange gruppens nummer:",
+        "Ja, men vill ej ange vilken",
+        "Nej"
+      ]
+    },
+    {
+      "variable": "f58",
+      "question_text": "Ogillad grupp borde få?",
+      "sub_items": [
+        "Anordna och delta i demonstrationer",
+        "Uttrycka sina åsikter i tal och skrift",
+        "Bilda en organisation för gruppens verksamhet",
+        "Arbeta i sjukvården eller äldreomsorgen",
+        "Kandidera i riksdagsval",
+        "Bli statsminister"
+      ],
+      "response_alternatives": [
+        "Ja",
+        "Nej"
+      ]
+    },
+    {
+      "variable": "f59",
+      "question_text": "Demokratin tillfälligt begränsas för att hantera?",
+      "sub_items": [
+        "En klimat- och miljökris",
+        "En finanskris",
+        "En pandemi",
+        "Könsdiskriminering",
+        "Grov brottslighet",
+        "Integrationsproblem",
+        "Krig och krigsfara"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls"
+      ]
+    },
+    {
+      "variable": "f60",
+      "question_text": "I vilken grad litar du på -",
+      "sub_items": [
+        "att grannar skulle hjälpa dig om du blev sjuk",
+        "lärares betygssättning",
+        "kristna präster som uttalar sig i politiska frågor",
+        "rabbiner som uttalar sig i politiska frågor",
+        "imamer som uttalar sig i politiska frågor",
+        "personalen i säkerhetskontroller på svenska flygplatser",
+        "poliser som övervakar demonstrationer",
+        "mediers rapportering om kriminalitet"
+      ],
+      "response_alternatives": [
+        "I mycket liten grad",
+        "I ganska liten grad",
+        "I varken hög eller liten grad",
+        "I ganska hög grad",
+        "I mycket hög grad"
+      ]
+    },
+    {
+      "variable": "f61",
+      "question_text": "Följande uppfyller kravet på saklighet och opartiskhet?",
+      "sub_items": [
+        "Polisen",
+        "Brandkåren",
+        "Ambulanssjukvården",
+        "Socialtjänsten",
+        "Skolan",
+        "Universiteten",
+        "Försvarsmakten",
+        "Domstolarna"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls"
+      ]
+    },
+    {
+      "variable": "f62",
+      "question_text": "I vilken utsträckning litar du på:",
+      "sub_items": [
+        "Din familj",
+        "Din släkt",
+        "Dina vänner och bekanta",
+        "Svenska medborgare",
+        "Personer med en annan kulturell bakgrund än din",
+        "Personer med annat kön än ditt",
+        "Personer med annan religion/trosuppfattning än din",
+        "Personer som du träffar för första gången",
+        "Dina arbetskamrater eller studiekamrater",
+        "Personer med annat modersmål än ditt"
+      ],
+      "response_alternatives": [
+        "0=Jag litar på dem i mycket liten utsträckning",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10=Jag litar på dem i mycket stor utsträckning"
+      ]
+    },
+    {
+      "variable": "f63",
+      "question_text": "Påstående:",
+      "sub_items": [
+        "Jag känner mig som en del av det svenska samhället",
+        "Demokratier, där folkvalda politiker beslutar, är bättre än andra styrelseskick på att lösa dagens samhällsproblem",
+        "En stark ledare, som inte behöver ta hänsyn till folkvalda politikers beslut, är bättre på att lösa dagens samhällsproblem",
+        "Experter, som inte behöver ta hänsyn till folkvalda politikers beslut, är bättre på att lösa dagens samhällsproblem"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls"
+      ]
+    },
+    {
+      "variable": "f65",
+      "question_text": "Din åsikt:",
+      "sub_items": [
+        "Minska inkomstskillnaderna i samhället",
+        "Avskaffa enskilda länders vetorätt i EU",
+        "Avskaffa regionerna",
+        "Tillåta lokala producenter att sälja starköl, vin och sprit i egna butiker (gårdsförsäljning)",
+        "Legalisera surrogatmoderskap",
+        "Endast myndiga personer ska kunna ändra sitt juridiska kön",
+        "Minska den offentliga sektorn",
+        "Låta staten överta ansvaret för skolan från kommunerna",
+        "Pausa utvecklingen av AI",
+        "Tillåta Ukraina att bli medlem i EU",
+        "Förbjuda företag med vinstsyfte att driva skolor",
+        "Begränsa det fria skolvalet",
+        "Införa en basinkomst (medborgarlön) för alla medborgare",
+        "Höja skatterna",
+        "Sverige bör på lång sikt avveckla kärnkraften",
+        "EU bör ha en gemensam finanspolitik",
+        "Införa mycket hårdare fängelsestraff",
+        "Satsa på ett mångkulturellt samhälle",
+        "Tillåta uranbrytning i Sverige",
+        "Minska biståndet till utvecklingsländerna",
+        "Höja koldioxidskatten på bensin och diesel",
+        "Öka incitamenten för återvandring",
+        "Förbjud utförsäljning av allmännyttan",
+        "Vinstutdelning ska inte tillåtas inom skattefinansierad vård, skola och omsorg",
+        "Öka antalet vargar i Sverige",
+        "Införa republik med vald president",
+        "Sverige bör utträda ur EU",
+        "Ta emot färre flyktingar i Sverige",
+        "Öka stödet till lokala morgontidningar för att bevara den lokala journalistiken",
+        "De nordiska länderna bör gå samman och bilda en förbundsstat",
+        "Förbjud användning av Epa-traktorer/A-traktorer",
+        "Höja arbetslöshetsersättningen (a-kassan)",
+        "Föra tillbaka makt från EU till medlemsländerna",
+        "Skärpa straffen för gängkriminalitet",
+        "Förbjud kamphundar helt i Sverige",
+        "Införa medborgarskapstest som krav för medborgarskap",
+        "Utländska medborgare som döms till fängelse på grund av våldsbrott ska utvisas",
+        "Öka arbetskraftsinvandringen till Sverige",
+        "Satsa mer på ett miljövänligt samhälle",
+        "Låta staten överta ansvaret för sjukvården",
+        "Sverige bör införa euro som valuta",
+        "Bedriva mer av sjukvården i privat regi",
+        "Minska försvarsutgifterna",
+        "Satsa på ett samhälle med ökad jämställdhet mellan kvinnor och män",
+        "Öka det ekonomiska stödet till glesbygden",
+        "Inför anmälningsplikt mot papperslösa för personal inom vård, skola och omsorg",
+        "Låta privata företag svara för äldreomsorg",
+        "Kalla in fler till den allmänna värnplikten",
+        "Sänka skatterna",
+        "Ta emot fler flyktingar i Sverige",
+        "Höja koldioxidskatten på bensin",
+        "Låta SVT och Sveriges Radio sända enbart nyheter och smala program",
+        "Höja skatten på alkohol",
+        "Införa sex timmars arbetsdag",
+        "Införa ett bidragstak",
+        "Slå ihop SR och SVT till ett radio-/tv-bolag",
+        "Låta ansvaret för miljöpolitik ligga hos enskilda medlemsländer istället för hos EU",
+        "Begränsa skärmtiden för barn",
+        "Införa fyra dagars arbetsvecka",
+        "Införa marknadshyror på bostadsmarknaden",
+        "Sänka skatten på alkohol",
+        "Legalisera köp av sexuella tjänster"
+      ],
+      "response_alternatives": [
+        "Mycket bra förslag",
+        "Ganska bra förslag",
+        "Varken bra eller dåligt förslag",
+        "Ganska dåligt förslag",
+        "Mycket dåligt förslag"
+      ]
+    },
+    {
+      "variable": "f66",
+      "question_text": "Din åsikt:",
+      "sub_items": [
+        "Införa dödsstraff för mord",
+        "Tillåta försäljning av starköl, vin och sprit i livsmedelsbutiker",
+        "Legalisera cannabis",
+        "Införa hårdare krav för att få servera alkohol på restaurang/bar/pub",
+        "Tillåta aktiv dödshjälp",
+        "Stärka homo-, bi- och transsexuellas ställning i samhället",
+        "Stärka djurens rätt"
+      ],
+      "response_alternatives": [
+        "Mycket bra förslag",
+        "Ganska bra förslag",
+        "Varken bra eller dåligt förslag",
+        "Ganska dåligt förslag",
+        "Mycket dåligt förslag",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f68",
+      "question_text": "Befogenheter presidenten skulle ha?",
+      "sub_items": [
+        "Att utse en statsminister",
+        "Att kunna upphäva riksdagsbeslut",
+        "Att utlysa extraval",
+        "Representera landet",
+        "Att avskeda statsminister",
+        "Att besluta om utrikespolitik",
+        "Att lämna lagförslag till riksdagen"
+      ],
+      "response_alternatives": [
+        "Ska ha befogenhet",
+        "Ska inte ha befogenhet",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f69",
+      "question_text": "Din uppfattning om -",
+      "sub_items": [
+        "Kvaliteten i den svenska skolan har försämrats under senare år",
+        "Skolans viktigaste uppgift är att fostra demokratiska medborgare",
+        "Lärare i svenska skolor är välutbildade"
+      ],
+      "response_alternatives": [
+        "1=Helt felaktigt påstående",
+        "2",
+        "3",
+        "4",
+        "5=Helt riktigt påstående"
+      ]
+    },
+    {
+      "variable": "f72",
+      "question_text": "Ansvar för hemberedskapen inför samhällskriser i Sverige?",
+      "sub_items": [
+        "Medborgarna",
+        "Myndigheterna"
+      ],
+      "response_alternatives": [
+        "Mycket stort ansvar",
+        "Ganska stort ansvar",
+        "Varken stort eller litet ansvar",
+        "Ganska litet ansvar",
+        "Mycket litet ansvar"
+      ]
+    },
+    {
+      "variable": "f74",
+      "question_text": "Hur troligt vända dig till vid en stor samhällskris?",
+      "sub_items": [
+        "Familj/vänner",
+        "Grannar",
+        "Frivilligorganisationer/religiösa samfund",
+        "Myndigheter"
+      ],
+      "response_alternatives": [
+        "Extremt troligt",
+        "Mycket troligt",
+        "Ganska troligt",
+        "Inte särskilt troligt",
+        "Inte alls troligt"
+      ]
+    },
+    {
+      "variable": "f76",
+      "question_text": "Medlemskapet i EU påverkar Sverige inom?",
+      "sub_items": [
+        "Miljön",
+        "Ekonomin",
+        "Sysselsättningen",
+        "Jordbruket",
+        "Möjligheten att påverka utvecklingen i EU",
+        "Brottsbekämpningen",
+        "Den militära säkerheten",
+        "Jämställdheten mellan män och kvinnor",
+        "Den sociala tryggheten",
+        "Invandringen"
+      ],
+      "response_alternatives": [
+        "Mycket positivt",
+        "Ganska positivt",
+        "Varken positivt eller negativt",
+        "Ganska negativt",
+        "Mycket negativt",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f77",
+      "question_text": "Förslag?",
+      "sub_items": [
+        "Fördjupa den europeiska integrationen för att möta samhällsutmaningar",
+        "Sverige bör i ökad utsträckning samordna sin utrikespolitik med övriga EU-staters",
+        "EUs budget bör utökas för att kunna möta gränsöverskridande problem"
+      ],
+      "response_alternatives": [
+        "Mycket bra förslag",
+        "Ganska bra förslag",
+        "Varken bra eller dåligt förslag",
+        "Ganska dåligt förslag",
+        "Mycket dåligt förslag",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f78",
+      "question_text": "Var skulle du vilja placera?",
+      "sub_items": [
+        "Kamala Harris",
+        "Donald Trump",
+        "Joe Biden"
+      ],
+      "response_alternatives": [
+        "-5=Ogillar starkt",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0=Varken gillar eller ogillar",
+        "+1",
+        "+2",
+        "+3",
+        "+4",
+        "+5=Gillar starkt",
+        "Personen är okänd för mig"
+      ]
+    },
+    {
+      "variable": "f80",
+      "question_text": "Påstående?",
+      "sub_items": [
+        "Försvaret skulle klara av att försvara Sverige mot ett militärt angrepp",
+        "Det är viktigt att Sverige har ett starkt militärt försvar",
+        "Sverige ger tillräckligt stort militärt stöd till Ukraina",
+        "Förhindra Nato från att placera kärnvapen i Sverige",
+        "Det var fel av Sverige att gå med i militäralliansen Nato",
+        "Skicka svenska värnpliktiga soldater till väpnad konflikt utanför Sveriges gränser"
+      ],
+      "response_alternatives": [
+        "Helt riktigt",
+        "Delvis riktigt",
+        "Delvis felaktigt",
+        "Helt felaktigt",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f81",
+      "question_text": "I händelse av krig i Sverige, hur troligt engagera dig i?",
+      "sub_items": [
+        "Det militära försvaret",
+        "Det civila försvaret"
+      ],
+      "response_alternatives": [
+        "Mycket troligt",
+        "Ganska troligt",
+        "Inte särskilt troligt",
+        "Inte alls troligt",
+        "Vet ej"
+      ]
+    },
+    {
+      "variable": "f82",
+      "question_text": "",
+      "sub_items": [
+        "Röstade du i valet till Europaparlamentet i juni 2024?",
+        "Om du röstade i Europaparlamentsvalet, vilket parti röstade du på då?"
+      ],
+      "response_alternatives": [
+        "Ja",
+        "Nej",
+        "Ej röstberättigad",
+        "Minns inte"
+      ]
+    },
+    {
+      "variable": "f83",
+      "question_text": "Inställning till följande aktörers agerande?",
+      "sub_items": [
+        "Det israeliska styret",
+        "Hamas",
+        "PLO"
+      ],
+      "response_alternatives": [
+        "Mycket positiv",
+        "Ganska positiv",
+        "Varken positiv eller negativ",
+        "Ganska negativ",
+        "Mycket negativ",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f84",
+      "question_text": "Nöjdhet med offentliga försäkringsssytem?",
+      "sub_items": [
+        "Pensionssystemet",
+        "A-kassan",
+        "Sjukförsäkringen: Sjukpenningen",
+        "Sjukförsäkringen: Sjukersättningen"
+      ],
+      "response_alternatives": [
+        "Mycket nöjd",
+        "Ganska nöjd",
+        "Varken nöjd eller missnöjd",
+        "Ganska missnöjd",
+        "Mycket missnöjd",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f85",
+      "question_text": "",
+      "sub_items": [
+        "Senaste 12 mån besökt statligt servicekontor? Nej",
+        "Senaste 12 mån besökt statligt servicekontor? Ja, för egen del",
+        "Senaste 12 mån besökt statligt servicekontor? Ja, för närståendes räkning",
+        "Påståenden om ditt senaste besök? Kontoret låg tillräckligt nära ditt hem",
+        "Påståenden om ditt senaste besök? Du fick den hjälp du behövde för att lösa ditt ärende",
+        "Påståenden om ditt senaste besök? Väntetiden var acceptabel"
+      ],
+      "response_alternatives": [
+        "Ej kryss",
+        "Kryss"
+      ]
+    },
+    {
+      "variable": "f86",
+      "question_text": "Fungerar i den region eller kommun där du bor? -",
+      "sub_items": [
+        "Grundskolan",
+        "Sjukvården",
+        "Äldreomsorgen"
+      ],
+      "response_alternatives": [
+        "Mycket bra",
+        "Ganska bra",
+        "Varken bra eller dåligt",
+        "Ganska dåligt",
+        "Mycket dåligt",
+        "Ingen uppfattning",
+        "Känner ej till verksamheten"
+      ]
+    },
+    {
+      "variable": "f87",
+      "question_text": "Offentliga servicen fungerat de senaste 12 mån i:",
+      "sub_items": [
+        "Den kommun där du bor",
+        "Den region där du bor"
+      ],
+      "response_alternatives": [
+        "Mycket bra",
+        "Ganska bra",
+        "Varken bra eller dåligt",
+        "Ganska dåligt",
+        "Mycket dåligt",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f89",
+      "question_text": "Påstående",
+      "sub_items": [
+        "? Utbudet av service där jag bor är rimligt",
+        "? Avstånden till service där jag bor är för långa",
+        "? Utbudet av service där jag bor har förbättrats över tid",
+        "? Den ort där jag bor är orättvist missgynnad jämfört med andra orter",
+        "? De som bor i glesbygd/mindre orter får vara beredda på sämre tillgång till service",
+        "? Service bör bedrivas nära människor, även när det kostar mer",
+        "? Service bör koncentreras till större orter för att säkra kvaliteten",
+        "? Det satsas för mycket på dem som bor i storstäder",
+        "n? Det satsas för mycket på dem som bor i glesbygden"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f90",
+      "question_text": "Villig att lägga ner närmaste sjukhus?",
+      "sub_items": [
+        "Om vårdpersonalen står bakom beslutet",
+        "Om beslutet rekommenderats av ekonomiska experter",
+        "Om beslutet fattats av riksdagen",
+        "Om beslutet fattats av politikerna i din region",
+        "Om beslutet fattats efter en medborgardialog",
+        "Om patienter får subventionerade resor till andra sjukhus",
+        "Om besparingarna gör att skatten kan sänkas"
+      ],
+      "response_alternatives": [
+        "Extremt villig",
+        "Mycket villig",
+        "Ganska villig",
+        "Inte särskilt villig",
+        "Inte alls villig"
+      ]
+    },
+    {
+      "variable": "f91",
+      "question_text": "Villig att lägga ner närmaste grundskola?",
+      "sub_items": [
+        "Om lärarna står bakom beslutet",
+        "Om beslutet rekommenderats av ekonomiska experter",
+        "Om beslutet fattats av riksdagen",
+        "Om beslutet fattats av politikerna i din kommun",
+        "Om beslutet fattats efter en medborgardialog",
+        "Om elever får välfungerande skolskjuts till andra skolor",
+        "Om besparingarna gör att skatten kan sänkas"
+      ],
+      "response_alternatives": [
+        "Extremt villig",
+        "Mycket villig",
+        "Ganska villig",
+        "Inte särskilt villig",
+        "Inte alls villig"
+      ]
+    },
+    {
+      "variable": "f92",
+      "question_text": "Prioritera mellan närhet och kvalitet?",
+      "sub_items": [
+        "Grundskola",
+        "Sjukhus",
+        "Universitet/högskola",
+        "Simhall"
+      ],
+      "response_alternatives": [
+        "Närhet är prioriterat",
+        "Kvalitet är prioriterat"
+      ]
+    },
+    {
+      "variable": "f93",
+      "question_text": "Din åsikt om:",
+      "sub_items": [
+        "Socialstyrelsen har kompetens att sköta sitt arbete",
+        "Jag känner mig berörd av det arbete Socialstyrelsen gör",
+        "Socialstyrelsen utvecklar en bra hälso- och sjukvård för alla",
+        "Socialstyrelsen utvecklar en bra socialtjänst och äldreomsorg för alla"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f96",
+      "question_text": "När beslut fattas av datorer istället för tjänstemän leder det till…",
+      "sub_items": [
+        "När beslut fattas av datorer istället för tjänstemän leder det till… mer tillförlitliga beslut",
+        "mer opartiska beslut",
+        "mindre hänsyn till människors situation",
+        "mindre insyn i besluten",
+        "mer arbete för individen"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls"
+      ]
+    },
+    {
+      "variable": "f97",
+      "question_text": "Lämpligt att datorer fattar beslut om?",
+      "sub_items": [
+        "Inkomstdeklaration",
+        "Medborgarskap",
+        "Försörjningsstöd/socialbidrag"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls"
+      ]
+    },
+    {
+      "variable": "f98",
+      "question_text": "När beslut om inkomstdeklaration fattas av dator istället för tjänstemän leder det till...",
+      "sub_items": [
+        "mer tillförlitliga beslut",
+        "mer opartiska beslut",
+        "mindre hänsyn till människors situation",
+        "mindre insyn i besluten",
+        "mer arbete för individen"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls"
+      ]
+    },
+    {
+      "variable": "f99",
+      "question_text": "När beslut om medborgarskap fattas av dator istället för tjänstemän leder det till...",
+      "sub_items": [
+        "mer tillförlitliga beslut",
+        "mer opartiska beslut",
+        "mindre hänsyn till människors situation",
+        "mindre insyn i besluten",
+        "mer arbete för individen"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls"
+      ]
+    },
+    {
+      "variable": "f100",
+      "question_text": "När beslut om",
+      "sub_items": [
+        "försörjningsstöd/socialbidrag fattas av dator istället för tjänstemän leder det till… mer tillförlitliga beslut",
+        "försörjningsstöd/socialbidrag fattas av dator istället för tjänstemän leder det till… mer opartiska beslut",
+        "försörjningsstöd/socialbidrag fattas av dator istället för tjänstemän leder det till… mindre hänsyn till människors situation",
+        "försörjningsstöd/socialbidrag fattas av dator istället för tjänstemän leder det till… mindre insyn i besluten",
+        "försörjningsstöd/socialbidrag fattas av dator istället för tjänstemän leder det till… mer arbete för individen"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls"
+      ]
+    },
+    {
+      "variable": "f101",
+      "question_text": "De senaste 12 månaderna?",
+      "sub_items": [
+        "Motionerat/tränat",
+        "Löst korsord",
+        "Druckit dig berusad",
+        "Besökt idrottsevenemang",
+        "Besökt bibliotek",
+        "Lyssnat på musik",
+        "Gått i terapi",
+        "Besökt gudstjänst eller religiöst möte",
+        "Ridit",
+        "Bakat/syltat/saftat",
+        "Bjudit hem någon på middag",
+        "Mekat med eller vårdat bil/mc/moped",
+        "Kontaktat en politiker",
+        "Läst tryckt bok",
+        "Känt dig ensam",
+        "Arbetat ideellt/volontärarbetat",
+        "Läst högt ur bok/tidning för något barn",
+        "Diskuterat nyheter",
+        "Skrivit under en namninsamling",
+        "Lyssnat på ljudbok",
+        "Läst någon e-bok",
+        "Deltagit i miljö- eller fredsdemonstrationer",
+        "Gått på klassisk konsert/opera",
+        "Gått på rock-/popkonsert",
+        "Använt studie-/arbetsplats på bibliotek",
+        "Frågat bibliotekarie om hjälp",
+        "Deltagit i aktivitet på bibliotek",
+        "Varit ute i naturen/friluftsliv",
+        "Använt bil från bilpool",
+        "Gått på hemslöjdsmarknad/-utställning",
+        "Sysslat med handarbete/hantverk",
+        "Bunkrat mat/dagligvaror",
+        "Ätit kosttillskott",
+        "Spelat teater, deltagit i lajv etc",
+        "Gått på dansföreställning",
+        "Tecknat/målat",
+        "Skrivit dagbok/poesi",
+        "Sjungit i kör",
+        "Spelat musikinstrument",
+        "Dansat",
+        "Fotograferat/filmat",
+        "Lyssnat på ljudbok/talbok",
+        "Gått på museum",
+        "Gått på konstutställning",
+        "Deltagit i studiecirkel/kursverksamhet",
+        "Besökt historisk sevärdhet/byggnad",
+        "Besökt fornminne",
+        "Spelat brädspel/sällskapsspel",
+        "Streamat konsert",
+        "Bastat",
+        "Arbetat övertid",
+        "Snusat vitt snus",
+        "Bett en bön",
+        "Funderat över livets mening",
+        "Besökt restaurang/bar/pub på kvällstid",
+        "Trädgårdsarbete/balkongodling",
+        "Själv hjälpt/fått hjälp av någon granne",
+        "Ägnat en hel dag åt att göra ingenting",
+        "Sett på dokumentär",
+        "Sett på svensk film",
+        "Läst bok för något barn",
+        "Besökt naturreservat/nationalpark",
+        "Besökt arkiv",
+        "Åkt med kollektivtrafik",
+        "Kört bil",
+        "Cyklat",
+        "Spelat dator-/mobil-/tv-spel",
+        "Spelat på tips/trav/lotteri etc",
+        "Sett på film",
+        "Läst någon bok",
+        "Sjungit i kör/spelat musikinstrument",
+        "Umgåtts med vänner",
+        "Diskuterat politik",
+        "Bett till Gud",
+        "Skänkt pengar till hjälporganisation",
+        "Druckit sprit/vin/starköl",
+        "Sett på tv-serie",
+        "Åkt elsparkcykel",
+        "Deltagit i demonstration",
+        "Rökt cigaretter",
+        "Snusat",
+        "Tittat på text-tv",
+        "Rest utomlands",
+        "Gått på bio",
+        "Gått på teater",
+        "Handlat med aktier"
+      ],
+      "response_alternatives": [
+        "Ingen gång",
+        "Någon gång de senaste 12 månaderna",
+        "Någon gång i halvåret",
+        "Någon gång i kvartalet",
+        "Någon gång i månaden",
+        "Någon gång i veckan",
+        "Flera gånger i veckan"
+      ]
+    },
+    {
+      "variable": "f102",
+      "question_text": "Varifrån har du fått dina boktips?",
+      "sub_items": [
+        "Bibliotek/bibliotekarie",
+        "Bokhandel/bokhandlare",
+        "Via bokklubb",
+        "Sociala medier",
+        "Recensionsplattformar",
+        "Tidningar/TV/Radio",
+        "Familj/vänner/bekanta",
+        "Kollegor/arbetsplatsen",
+        "Har inte läst någon bok under de senaste 12 månaderna"
+      ],
+      "response_alternatives": [
+        "Aldrig",
+        "Ibland",
+        "Ofta"
+      ]
+    },
+    {
+      "variable": "f103",
+      "question_text": "En genomsnittlig månad, pengar på?",
+      "sub_items": [
+        "Mat/livsmedel",
+        "Kläder/skor",
+        "Hemelektronik",
+        "Inredning/möbler"
+      ],
+      "response_alternatives": [
+        "Inga pengar alls",
+        "Upp till 500 kronor",
+        "501– 1 000 kronor",
+        "1 001– 2 000 kronor",
+        "2 001– 4 000 kronor",
+        "4 001– 6 000 kronor",
+        "Mer än 6 000 kronor"
+      ]
+    },
+    {
+      "variable": "f104",
+      "question_text": "De senaste 12 månaderna?",
+      "sub_items": [
+        "Köpt kravmärkt mat/livsmedel",
+        "Köpt kläder till dig själv",
+        "Köpt mat till ditt hushåll",
+        "Handlat second hand/begagnat",
+        "Köpt hemelektronik",
+        "Köpt inredning/möbler",
+        "Köpt mer än du egentligen hade råd med",
+        "Prutat/förhandlat om priset på en vara/tjänst",
+        "Köpt något till dig själv för att få dig att må bättre",
+        "Lämnat in kläder eller prylar på reparation",
+        "Skjutit upp betalning av vara/tjänst (köp nu betala sen)",
+        "Tillbringat minst 1 timme på ett köpcentrum",
+        "Handlat mat/livsmedel i butik",
+        "Köpt/beställt mat/matkasse på internet",
+        "Köpt/beställt kläder på internet",
+        "Köpt/beställt hemelektronik på internet",
+        "Köpt/beställt inredning/möbler på internet"
+      ],
+      "response_alternatives": [
+        "Ingen gång",
+        "Någon gång de senaste 12 mån",
+        "Någon gång i halvåret",
+        "Någon gång i kvartalet",
+        "Någon gång i månaden",
+        "Någon gång i veckan",
+        "Flera gånger i veckan"
+      ]
+    },
+    {
+      "variable": "f105",
+      "question_text": "När du köper något av följande varor, hur ofta väljer du ett alternativ med lägre klimatpåverkan?",
+      "sub_items": [
+        "Mat",
+        "Kläder",
+        "Inredning/möbler"
+      ],
+      "response_alternatives": [
+        "Aldrig",
+        "Sällan",
+        "Ibland",
+        "Ofta",
+        "Alltid"
+      ]
+    },
+    {
+      "variable": "f107",
+      "question_text": "I vilken utsträckning",
+      "sub_items": [
+        "går det att lita på människor i allmänhet?",
+        "anser du att det går att lita på människor i det område där du bor?"
+      ],
+      "response_alternatives": [
+        "0=Det går inte att lita på människor i allmänhet",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10=Det går att lita på människor i allmänhet"
+      ]
+    },
+    {
+      "variable": "f111",
+      "question_text": "Är du medlem i:",
+      "sub_items": [
+        "Idrotts-/friluftsförening",
+        "Miljöorganisation",
+        "Politiskt parti/förbund",
+        "Facklig organisation",
+        "Kulturförening",
+        "Pensionärsförening",
+        "Humanitär hjälporganisation",
+        "Svenska kyrkan, frikyrka, religiös organisation",
+        "Annan typ av förening/organisation"
+      ],
+      "response_alternatives": [
+        "Nej",
+        "Ja",
+        "...och jag deltar aktivt i verksamheten",
+        "...och jag har någon typ av uppdrag"
+      ]
+    },
+    {
+      "variable": "f115",
+      "question_text": "Agerat i samhälleliga och politiska frågor -",
+      "sub_items": [
+        "Skrivit under en namninsamling",
+        "Kontaktat en politiker",
+        "Kontaktat en tjänsteman",
+        "Deltagit i en demonstration",
+        "Deltagit i möte om kommunens verksamhet",
+        "Diskuterat politik i forum på internet",
+        "Skrivit insändare till en tidning",
+        "Arbetat i aktionsgrupp",
+        "Skrivit eller kommenterat i sociala medier"
+      ],
+      "response_alternatives": [
+        "Ja, under de senaste 12 månaderna",
+        "Ja, för en längre tid sedan",
+        "Nej"
+      ]
+    },
+    {
+      "variable": "f116",
+      "question_text": "Hur ofta uttrycka din åsikt i en samhällsfråga?",
+      "sub_items": [
+        "I ett privat sammanhang (bland familj, släkt eller vänner)",
+        "I ett offentligt sammanhang (ex på en konferens, ett seminarium eller i media)",
+        "På min arbetsplats eller skola",
+        "I samband med ett engagemang i en ideell förening eller organisation",
+        "På internet (ex sociala medier, blogg eller diskussionsforum)",
+        "I något annat sammanhang"
+      ],
+      "response_alternatives": [
+        "Flera gånger i veckan",
+        "Någon gång i veckan",
+        "Någon gång i månaden",
+        "Mer sällan",
+        "Aldrig"
+      ]
+    },
+    {
+      "variable": "f117",
+      "question_text": "Utsatt för hot, trakasserier eller våld i samband uttryckt åsikt i en samhällsfråga?",
+      "sub_items": [
+        "I ett privat sammanhang (bland familj, släkt eller vänner)",
+        "I ett offentligt sammanhang (ex på en konferens, ett seminarium eller i media)",
+        "På min arbetsplats eller skola",
+        "I samband med ett engagemang i en ideell förening eller organisation",
+        "På internet (ex sociala medier, blogg eller diskussionsforum)",
+        "I något annat sammanhang"
+      ],
+      "response_alternatives": [
+        "Nej, ingen gång",
+        "Ja, någon gång",
+        "Ja, flera gånger"
+      ]
+    },
+    {
+      "variable": "f118",
+      "question_text": "Stämmer följande in på dig?",
+      "sub_items": [
+        "Jag förstår de flesta politiska frågor som diskuteras i nyheterna",
+        "Jag försöker ofta påverka andra människor i frågor som rör politik och samhälle",
+        "Jag vet vad jag tycker i viktiga samhällsfrågor",
+        "Jag tvivlar på min förmåga att delta i en grupp eller förening som sysslar med politiska frågor",
+        "Jag tvivlar på min förmåga att delta i diskussioner om samhälle och politik"
+      ],
+      "response_alternatives": [
+        "Stämmer mycket dåligt",
+        "Stämmer ganska dåligt",
+        "Stämmer varken bra eller dåligt",
+        "Stämmer ganska bra",
+        "Stämmer mycket bra"
+      ]
+    },
+    {
+      "variable": "f119",
+      "question_text": "Instämmer i:",
+      "sub_items": [
+        "Jag känner mig som en del av det svenska samhället",
+        "Jag känner att jag behövs i det svenska samhället"
+      ],
+      "response_alternatives": [
+        "Instämmer inte alls",
+        "Instämmer knappast",
+        "Instämmer delvis",
+        "Instämmer helt"
+      ]
+    },
+    {
+      "variable": "f120",
+      "question_text": "Gjort under de senaste 12 månaderna?",
+      "sub_items": [
+        "Firade alla hjärtans dag",
+        "Deltog i 1 maj-demonstration",
+        "Tittade på finalen i Eurovision Song Contest",
+        "Firade Sveriges nationaldag den 6 juni",
+        "Firade skolavslutning",
+        "Firade midsommar",
+        "Firade avslutningen av ramadan (Eid al-fitr)",
+        "Firade halloween",
+        "Var i kyrkan på 1:a advent"
+      ],
+      "response_alternatives": [
+        "Nej",
+        "Ja"
+      ]
+    },
+    {
+      "variable": "f123",
+      "question_text": "Satsa på energikälla i Sverige under närmaste 5–10 åren?",
+      "sub_items": [
+        "Vattenkraft",
+        "Vindkraft",
+        "Solenergi",
+        "Kärnkraft",
+        "Biobränslen",
+        "Fossil-/naturgas",
+        "Vågkraft",
+        "Vätgas"
+      ],
+      "response_alternatives": [
+        "Satsa mer än i dag",
+        "Satsa ungefär som i dag",
+        "Satsa mindre än i dag",
+        "Helt avstå från energikällan",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f124",
+      "question_text": "Inställning till energikälla?",
+      "sub_items": [
+        "Vattenkraft",
+        "Vindkraft",
+        "Kärnkraft",
+        "Solkraft"
+      ],
+      "response_alternatives": [
+        "Mycket positiv",
+        "Ganska positiv",
+        "Varken positiv eller negativ",
+        "Ganska negativ",
+        "Mycket negativ",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f125",
+      "question_text": "Etablering av vindkraft i närheten av… Din",
+      "sub_items": [
+        "fasta bostad",
+        "fritidsbostad"
+      ],
+      "response_alternatives": [
+        "Mycket positiv",
+        "Ganska positiv",
+        "Varken positiv eller negativ",
+        "Ganska negativ",
+        "Mycket negativ"
+      ]
+    },
+    {
+      "variable": "f127",
+      "question_text": "Tillståndet för miljön i?",
+      "sub_items": [
+        "Västerhavet (Kattegatt och Skagerrak)",
+        "Östersjön norr om Åland (Bottniska viken)",
+        "Östersjön söder om Åland"
+      ],
+      "response_alternatives": [
+        "Mycket gott",
+        "Ganska gott",
+        "Ganska dåligt",
+        "Mycket dåligt",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f128",
+      "question_text": "Din åsikt:",
+      "sub_items": [
+        "Sverige bör satsa mer på havsbaserad vindkraft",
+        "Avskaffa kommuners möjlighet att säga nej till etablering av nya vindkraftverk",
+        "Låta fastighetsskatten från vindkraften tillfalla kommunerna i stället för staten",
+        "Låta de som bor närmast vindkraftverk bli tilldelade en del av intäkterna"
+      ],
+      "response_alternatives": [
+        "Mycket bra förslag",
+        "Ganska bra förslag",
+        "Varken bra eller dåligt förslag",
+        "Ganska dåligt förslag",
+        "Mycket dåligt förslag",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f129",
+      "question_text": "Hur viktigt att följande verksamheter vidtar åtgärder för att förbättra havsmiljön?",
+      "sub_items": [
+        "Fritidsfisket",
+        "Turismen",
+        "Det kommersiella fisket",
+        "Fiskodlingar",
+        "Jordbruket",
+        "Industrin",
+        "Reningsverken",
+        "Havsbaserad vindkraft",
+        "Sjöfarten",
+        "Hamnarna",
+        "Olje- och gasutvinningen",
+        "Planeringen av bebyggelse"
+      ],
+      "response_alternatives": [
+        "0=Inte alls viktigt att åtgärder vidtas",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10=Mycket viktigt att åtgärder vidtas",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f131",
+      "question_text": "Inflytande var vindkraftverk ska placeras?",
+      "sub_items": [
+        "Staten",
+        "Länsstyrelserna",
+        "Kommunerna",
+        "Vindkraftsindustrin",
+        "Lokalbefolkningen",
+        "Privata markägare",
+        "Försvarsmakten"
+      ],
+      "response_alternatives": [
+        "Mycket stort inflytande",
+        "Ganska stort inflytande",
+        "Inte särskilt stort inflytande",
+        "Inget inflytande alls",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f132",
+      "question_text": "Förtroende gällande information om energi och kärnkraft?",
+      "sub_items": [
+        "Energimyndigheten",
+        "Strålsäkerhetsmyndigheten (SSM)",
+        "Naturvårdsverket"
+      ],
+      "response_alternatives": [
+        "Mycket bra",
+        "Ganska bra",
+        "Varken bra eller dåligt",
+        "Ganska dåligt",
+        "Mycket dåligt",
+        "Ingen uppfattning",
+        "Känner ej till myndigheten"
+      ]
+    },
+    {
+      "variable": "f135",
+      "question_text": "Acceptera åtgärdspaket för förbättring av havsmiljön -",
+      "sub_items": [
+        "om kostnaderna för samhället blev höga?",
+        "om det skulle innebära att du fick göra stora uppoffringar?",
+        "om kostnaderna blev lika stora för alla?",
+        "om kostnaderna fördelades så att de som har råd betalar mer?",
+        "om kostnaderna fördelades så att de som drabbas mer får betala mindre?",
+        "om kostnaderna fördelades så att verksamheter som orsakar störst problem får betala mest?",
+        "även om du inte kunde se förbättringar för havet omedelbart?",
+        "även om du inte kunde se förbättringar för dig personligen?"
+      ],
+      "response_alternatives": [
+        "I mycket låg grad",
+        "I ganska låg grad",
+        "I varken hög eller låg grad",
+        "I ganska hög grad",
+        "I mycket hög grad"
+      ]
+    },
+    {
+      "variable": "f136",
+      "question_text": "Hur viktiga är följande åtgärder för att nå en bättre havsmiljö?",
+      "sub_items": [
+        "Initiativ från enskilda individer",
+        "Initiativ från företag och privata organisationer",
+        "Tvingande lagar och förordningar"
+      ],
+      "response_alternatives": [
+        "Mycket viktigt",
+        "Ganska viktigt",
+        "Varken viktigt eller oviktigt",
+        "Ganska oviktigt",
+        "Mycket oviktigt"
+      ]
+    },
+    {
+      "variable": "f138",
+      "question_text": "Dagtid, under värmeböljor befinner jag mig oftast -",
+      "sub_items": [
+        "i min egen bostad",
+        "på balkong, altan eller uteplats vid min bostad",
+        "i trädgård, innergård eller grönområde vid min bostad",
+        "i park",
+        "i naturmark (tex friluftsområde, skog)",
+        "i inomhusmiljö med aircondition (AC), tex köpcentra, bibliotek, gym",
+        "på torg, uteserveringar, etc",
+        "vid/på vatten (tex hamn, damm, vattendrag)",
+        "på badplats"
+      ],
+      "response_alternatives": [
+        "Ej Kryss",
+        "Kryss"
+      ]
+    },
+    {
+      "variable": "f139",
+      "question_text": "Under värmeböljor…",
+      "sub_items": [
+        "Under värmeböljor… undviker jag utomhusaktiviteter (tex promenader, sporter, sociala aktiviteter)",
+        "undviker jag att göra vardagssysslor utanför hemmet (tex handla)",
+        "upplever jag problem med värme i min bostad",
+        "erbjuder mitt bostadsområde en bra utomhusmiljö att vistas i",
+        "erbjuder min stad/tätort en bra utomhusmiljö att vistas i"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls",
+        "Vet ej/ej relevant"
+      ]
+    },
+    {
+      "variable": "f140",
+      "question_text": "Bekymrad över hur värmeböljor",
+      "sub_items": [
+        "Bekymrad över hur värmeböljor påverkar… dig personligen?",
+        "påverkar… någon i din ålder?",
+        "påverkar… någon som är yngre än dig?",
+        "påverkar… någon som är äldre än dig?",
+        "påverkar… samhället i stort?"
+      ],
+      "response_alternatives": [
+        "Extremt bekymrad",
+        "Väldigt bekymrad",
+        "Ganska bekymrad",
+        "Lite bekymrad",
+        "Inte alls bekymrad"
+      ]
+    },
+    {
+      "variable": "f143",
+      "question_text": "Påstående?",
+      "sub_items": [
+        "AI är en större risk för samhället än en möjlighet",
+        "AI kommer att skapa fler jobb än vad det tar bort",
+        "AI är ett hot mot mänskligheten",
+        "AI kommer att medföra stor ekonomisk utveckling"
+      ],
+      "response_alternatives": [
+        "Helt riktigt",
+        "Delvis riktigt",
+        "Delvis felaktigt",
+        "Helt felaktigt"
+      ]
+    },
+    {
+      "variable": "f145",
+      "question_text": "Användandet av AI-chatbotar kommer leda till:",
+      "sub_items": [
+        "Minskad ensamhet",
+        "Ökad psykisk ohälsa",
+        "Att människor umgås mindre med varandra",
+        "Förbättrad tillgång till terapi"
+      ],
+      "response_alternatives": [
+        "Instämmer helt",
+        "Instämmer delvis",
+        "Instämmer knappast",
+        "Instämmer inte alls"
+      ]
+    },
+    {
+      "variable": "f147",
+      "question_text": "Skilja AI-genererad desinformation från riktiga nyheter?",
+      "sub_items": [
+        "Du själv",
+        "Andra personer i Sverige"
+      ],
+      "response_alternatives": [
+        "Mycket bra",
+        "Ganska bra",
+        "Varken bra eller dålig",
+        "Ganska dålig",
+        "Mycket dålig"
+      ]
+    },
+    {
+      "variable": "f148",
+      "question_text": "",
+      "sub_items": [
+        "Tillhör? Förvärvsarbetande (även sjukskriven, föräldraledig)",
+        "Tillhör? Har arbete i arbetsmarknadspolitiska åtgärder/genomgår arbetsmarknadsutbildning",
+        "Tillhör? Arbetslös",
+        "Tillhör? Ålderspensionär/avtalspensionär",
+        "Tillhör? Har sjuk-/aktivitetsersättning",
+        "Tillhör? Studerande",
+        "Tillhör? Annat",
+        "Förvärvsgrupp - sammanslagen variabel, baserad på f148a-g"
+      ],
+      "response_alternatives": [
+        "Ej kryss",
+        "Kryss"
+      ]
+    },
+    {
+      "variable": "f153",
+      "question_text": "",
+      "sub_items": [
+        "Har du varit sjukskriven vid något tillfälle under de senaste 12 månaderna?",
+        "Sjukskriven: Hur länge sammantaget?"
+      ],
+      "response_alternatives": [
+        "Nej",
+        "Ja"
+      ]
+    },
+    {
+      "variable": "f157",
+      "question_text": "Hur tror du att införandet av arbetstidsförkortning skulle försämra eller förbättra?",
+      "sub_items": [
+        "Befolkningens allmänna hälsa",
+        "Sveriges ekonomi"
+      ],
+      "response_alternatives": [
+        "Försämras mycket",
+        "Försämras något",
+        "Varken förbättras eller försämras",
+        "Förbättras något",
+        "Förbättras mycket"
+      ]
+    },
+    {
+      "variable": "f158",
+      "question_text": "I vilken utsträckning innefattar din huvudsakliga sysselsättning följande?",
+      "sub_items": [
+        "Fysisk påfrestning",
+        "Möjlighet till distansarbete",
+        "Stress",
+        "Möjlighet att själv välja arbetstid",
+        "En förväntan att arbeta övertid"
+      ],
+      "response_alternatives": [
+        "Hög utsträckning",
+        "Ganska hög utsträckning",
+        "Ganska låg utsträckning",
+        "Låg utsträckning",
+        "Ej applicerbart"
+      ]
+    },
+    {
+      "variable": "f169",
+      "question_text": "",
+      "sub_items": [
+        "Hur ser ditt hushåll ut?",
+        "Bor/delar hushåll med? En vuxen",
+        "Bor/delar hushåll med? Flera vuxna",
+        "Bor/delar hushåll med? Ett eller flera barn",
+        "Om du regelbundet delar ditt hushåll med barn, hur många är de?",
+        "Vilka åldrar är de? 0–3 år",
+        "Vilka åldrar är de? 4–6 år",
+        "Vilka åldrar är de? 7–15 år",
+        "Vilka åldrar är de? 16 år eller äldre"
+      ],
+      "response_alternatives": [
+        "Ej kryss",
+        " Kryss",
+        "Ej svar - del av fråga (filter f169a)"
+      ]
+    },
+    {
+      "variable": "f170",
+      "question_text": "D",
+      "sub_items": [
+        "itt nuvarande hem:",
+        "et hem du växte upp i:"
+      ],
+      "response_alternatives": [
+        "Arbetarhem",
+        "Jordbrukarhem",
+        "Tjänstemannahem",
+        "Högre tjänstemannahem",
+        "Företagarhem"
+      ]
+    },
+    {
+      "variable": "f171",
+      "question_text": "Huvudsakligen vuxit upp?",
+      "sub_items": [
+        "Du själv",
+        "Din far",
+        "Din mor"
+      ],
+      "response_alternatives": [
+        "Ren landsbygd i Sverige",
+        "Mindre tätort i Sverige",
+        "Stad eller större tätort i Sverige",
+        "Stockholm, Göteborg eller Malmö",
+        "Annat land i Norden",
+        "Annat land i Europa",
+        "Land utanför Europa"
+      ]
+    },
+    {
+      "variable": "f178",
+      "question_text": "Har du genomgått?",
+      "sub_items": [
+        "Estetisk injektionsbehandling januari 2010–juni 2021",
+        "Estetisk kirurgi januari 2010–juni 2021",
+        "Estetisk injektionsbehandling juli 2021 eller senare",
+        "Estetisk kirurgi juli 2021 eller senare"
+      ],
+      "response_alternatives": [
+        "Har ej genomgått",
+        "Ja, och fick inga komplikationer eller besvär",
+        "Ja, och fick lindriga komplikationer eller besvär",
+        "Ja, och fick allvarliga komplikationer eller besvär"
+      ]
+    },
+    {
+      "variable": "f179",
+      "question_text": "",
+      "sub_items": [
+        "Har förändrats senaste 12 månaderna? Din egen ekonomiska situation",
+        "Har förändrats senaste 12 månaderna? Den svenska ekonomin",
+        "Kommer att förändras under de kommande 12 mån? Din egen ekonomiska situation",
+        "Kommer att förändras under de kommande 12 mån? Den svenska ekonomin"
+      ],
+      "response_alternatives": [
+        "Förbättrats",
+        "Förblivit ungefär densamma",
+        "Försämrats"
+      ]
+    },
+    {
+      "variable": "f180",
+      "question_text": "",
+      "sub_items": [
+        "Har förändrats senaste 12 månaderna? Din egen ekonomiska situation",
+        "Har förändrats senaste 12 månaderna? Den svenska ekonomin",
+        "Kommer att förändras under de kommande 12 mån? Din egen ekonomiska situation",
+        "Kommer att förändras under de kommande 12 mån? Den svenska ekonomin"
+      ],
+      "response_alternatives": [
+        "Klart förbättrats",
+        "Förbättrats något",
+        "Förblivit ungefär densamma",
+        "Försämrats något",
+        "Klart försämrats"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "variable": "alder",
+      "question_text": "Ålder (svar kompl med registerdata)",
+      "response_alternatives": []
+    },
+    {
+      "variable": "alder9",
+      "question_text": "Ålder 9-delad",
+      "response_alternatives": [
+        "16-19 år",
+        "20-24 år",
+        "25-29 år",
+        "30-39 år",
+        "40-49 år",
+        "50-59 år",
+        "60-65 år",
+        "66-75 år",
+        "76+ år"
+      ]
+    },
+    {
+      "variable": "alder9b",
+      "question_text": "Ålder 9-delad",
+      "response_alternatives": [
+        "16-19 år",
+        "20-24 år",
+        "25-29 år",
+        "30-39 år",
+        "40-49 år",
+        "50-59 år",
+        "60-69 år",
+        "70-79 år",
+        "80+ år"
+      ]
+    },
+    {
+      "variable": "angrupp",
+      "question_text": "f148g. Annan sysselsättning (kodat svar)",
+      "response_alternatives": [
+        "Ej kryss",
+        "Värnpliktig",
+        "Hemmafru",
+        "Kontraktsvård/Samhällstjänst",
+        "Anhörigvårdare",
+        "Volontärarbetare",
+        " Förvärvsarbetande",
+        "Har arbete i arbetsmarknadspolitiska åtgärder/genomgår arbetsmarknadsutbildning",
+        "Arbetslös",
+        "Ålderspensionär/avtalspensionär",
+        "Har sjuk-/aktivitetsersättning",
+        "Studerande"
+      ]
+    },
+    {
+      "variable": "anideologi_txt",
+      "question_text": "f45. Annan grund",
+      "response_alternatives": []
+    },
+    {
+      "variable": "anparti",
+      "question_text": "f38a. Annat parti (kodat svar)",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "anparti2",
+      "question_text": "f82b. Annat parti EU val (kodat svar)",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "ansex_txt",
+      "question_text": "f163. Annat kön - transkriberat svar",
+      "response_alternatives": []
+    },
+    {
+      "variable": "anspraak_txt",
+      "question_text": "f172. Annat språk (kodat svar)",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "anutb",
+      "question_text": "f174. Annan utbildning (kodat svar)",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "areg",
+      "question_text": "A-region",
+      "response_alternatives": [
+        "Stockholm/Södertälje",
+        "Malmö/Lund/Trelleborg",
+        "Göteborg"
+      ]
+    },
+    {
+      "variable": "born",
+      "question_text": "Fodelsear (svar kompl med registerdata)",
+      "response_alternatives": []
+    },
+    {
+      "variable": "egenink4",
+      "question_text": "Egen månadsinkomst, fyrdelad. (Baserad på f175)",
+      "response_alternatives": [
+        "Max 14 999 kr",
+        "15 000 kr – 24 999 kr",
+        "25 000 kr – 44 999 kr",
+        "Minst 45 000 kr"
+      ]
+    },
+    {
+      "variable": "egenink5",
+      "question_text": "Egen månadsinkomst, femdelad. (Baserad på f175)",
+      "response_alternatives": [
+        "Max 14 999 kr",
+        "15 000 kr – 24 999 kr",
+        "25 000 kr – 34 999 kr",
+        "35 000 kr – 44 999 kr",
+        "Minst 45 000 kr"
+      ]
+    },
+    {
+      "variable": "empstat",
+      "question_text": "Anställningsstatus (baserad på f150)",
+      "response_alternatives": [
+        "Selfemployed 10+",
+        "Selfemployed <10",
+        "Selfemployed, no employees",
+        "Supervisors",
+        "Employees"
+      ]
+    },
+    {
+      "variable": "euroesec",
+      "question_text": "European ESeC (baserad på ssyk96 samt f150)",
+      "response_alternatives": [
+        "Höga tjänstemän o ledande befattn",
+        "Kvalificerade tjänstemän",
+        "Övriga tjänstemän",
+        "Småföretagare exkl. lantbrukare",
+        "Lantbrukare med flera",
+        "Arbetsledare och tekniker",
+        "Yrkesutb inom handel/service/omsorg",
+        "Yrkesutb arbetare",
+        "Övriga arbetare",
+        "Ej svar yrkesgruppfrågan",
+        "Ej ssyk96-kod/ej svar"
+      ]
+    },
+    {
+      "variable": "f7",
+      "question_text": "f7. Prenumererar du eller någon i ditt hushåll på någon morgontidning?",
+      "response_alternatives": [
+        "Ja",
+        "Nej"
+      ]
+    },
+    {
+      "variable": "f9",
+      "question_text": "f9. Allmänt sett, hur stort förtroende har du för svenska nyhetsmedier?",
+      "response_alternatives": [
+        "Mycket stort förtroende",
+        "Ganska stort förtroende",
+        "Ganska litet förtroende",
+        "Mycket litet förtroende"
+      ]
+    },
+    {
+      "variable": "f18",
+      "question_text": "f18. Tycker du att public service-avgiften man betalar för Sveriges Radio, Sveriges Television och Utbildningsradion är värd priset eller inte?",
+      "response_alternatives": [
+        "Mycket väl värd priset",
+        "Ganska väl värd priset",
+        "Inte speciellt värd priset",
+        "Inte alls värd priset"
+      ]
+    },
+    {
+      "variable": "f23",
+      "question_text": "f23. Hur intresserad är du i allmänhet av politik?",
+      "response_alternatives": [
+        "Mycket intresserad",
+        "Ganska intresserad",
+        "Inte särskilt intresserad",
+        "Inte alls intresserad"
+      ]
+    },
+    {
+      "variable": "f31",
+      "question_text": "f31. Allmänt sett, vilken är din inställning till EU?",
+      "response_alternatives": [
+        "Mycket positiv",
+        "Ganska positiv",
+        "Varken positiv eller negativ",
+        "Ganska negativ",
+        "Mycket negativ",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f33",
+      "question_text": "f33. Allmänt sett, nöjd med det sätt på vilket demokratin fungerar i Sverige?",
+      "response_alternatives": [
+        "Mycket nöjd",
+        "Ganska nöjd",
+        "Inte särskilt nöjd",
+        "Inte alls nöjd"
+      ]
+    },
+    {
+      "variable": "f34",
+      "question_text": "f34. Allmänt sett, hur stort förtroende har du för svenska politiker?",
+      "response_alternatives": [
+        "Mycket stort förtroende",
+        "Ganska stort förtroende",
+        "Ganska litet förtroende",
+        "Mycket litet förtroende"
+      ]
+    },
+    {
+      "variable": "f35",
+      "question_text": "f35. Allmänt sett, hur stort förtroende har du för svenska myndigheter?",
+      "response_alternatives": [
+        "Mycket stort förtroende",
+        "Ganska stort förtroende",
+        "Ganska litet förtroende",
+        "Mycket litet förtroende"
+      ]
+    },
+    {
+      "variable": "f36",
+      "question_text": "f36. Hur tycker du att regeringen sköter sin uppgift?",
+      "response_alternatives": [
+        "Mycket bra",
+        "Ganska bra",
+        "Varken bra eller dåligt",
+        "Ganska dåligt",
+        "Mycket dåligt"
+      ]
+    },
+    {
+      "variable": "f37",
+      "question_text": "f37. Var placerar du dig på en vänster-högerskala?",
+      "response_alternatives": [
+        "Klart till vänster",
+        "Något till vänster",
+        "Varken till vänster eller till höger",
+        "Något till höger",
+        "Klart till höger"
+      ]
+    },
+    {
+      "variable": "f42",
+      "question_text": "f42. Allmänt sett, tycker du att utvecklingen i Sverige går åt rätt håll eller åt fel håll?",
+      "response_alternatives": [
+        "Åt rätt håll",
+        "Åt fel håll",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f44",
+      "question_text": "f44. Allmänt sett, vilken är din inställning till det så kallade Tidö-avtalet?",
+      "response_alternatives": [
+        "Mycket positiv",
+        "Ganska positiv",
+        "Varken positiv eller negativ",
+        "Ganska negativ",
+        "Mycket negativ",
+        "Ingen uppfattning",
+        "Jag känner ej till avtalet"
+      ]
+    },
+    {
+      "variable": "f52",
+      "question_text": "f52. Vilken är din uppfattning om Sveriges beredskap och förmåga att hantera samhällskriser?",
+      "response_alternatives": [
+        "Den är mycket bra",
+        "Den är ganska bra",
+        "Den är varken bra eller dålig",
+        "Den är ganska dålig",
+        "Den är mycket dålig"
+      ]
+    },
+    {
+      "variable": "f54",
+      "question_text": "f54. De flesta anser att både frihet och säkerhet är viktigt, men om du tvingades välja mellan dem, skulle du då välja frihet eller säkerhet?",
+      "response_alternatives": [
+        "Frihet",
+        "Säkerhet"
+      ]
+    },
+    {
+      "variable": "f64",
+      "question_text": "f64. Om det blev krig som involverade Sverige, skulle du då vara villig att slåss för ditt land?",
+      "response_alternatives": [
+        "Ja",
+        "Nej",
+        "Vet ej"
+      ]
+    },
+    {
+      "variable": "f67",
+      "question_text": "f67. Tycker du att Sverige ska behålla eller avskaffa monarkin?",
+      "response_alternatives": [
+        "Behålla monarkin",
+        "Avskaffa monarkin",
+        "Ingen åsikt"
+      ]
+    },
+    {
+      "variable": "f70",
+      "question_text": "f70. Påstående? Alla ska ha rätt att fritt utöva sin religion",
+      "response_alternatives": [
+        "Helt riktigt",
+        "Delvis riktigt",
+        "Delvis felaktigt",
+        "Helt felaktigt",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f71",
+      "question_text": "f71. Påstående? Invandrare i Sverige ska fritt kunna utöva sin religion här",
+      "response_alternatives": [
+        "Helt riktigt",
+        "Delvis riktigt",
+        "Delvis felaktigt",
+        "Helt felaktigt",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f73",
+      "question_text": "f73. Hur säker är du på din förmåga att förbereda dig inför en samhällskris?",
+      "response_alternatives": [
+        "Extremt säker",
+        "Mycket säker",
+        "Ganska säker",
+        "Inte särskilt säker",
+        "Inte alls säker"
+      ]
+    },
+    {
+      "variable": "f75",
+      "question_text": "f75. Vilken är din åsikt om det svenska medlemskapet i EU?",
+      "response_alternatives": [
+        "I huvudsak för det svenska medlemskapet i EU",
+        "I huvudsak emot det svenska medlemskapet i EU",
+        "Har ingen bestämd åsikt i frågan"
+      ]
+    },
+    {
+      "variable": "f79",
+      "question_text": "f79. Allmänt sett, vilken är din inställning till Nato?",
+      "response_alternatives": [
+        "Mycket positiv",
+        "Ganska positiv",
+        "Varken positiv eller negativ",
+        "Ganska negativ",
+        "Mycket negativ",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f88",
+      "question_text": "f88. Var skulle du placera dig själv på följande skala? Centralisering - decentralisering.",
+      "response_alternatives": [
+        "0=Klart för centralisering",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10=Klart för decentralisering"
+      ]
+    },
+    {
+      "variable": "f94",
+      "question_text": "f94. Känner du till att en del beslut inom offentlig sektor fattas av datorer?",
+      "response_alternatives": [
+        "Ja",
+        "Nej"
+      ]
+    },
+    {
+      "variable": "f95",
+      "question_text": "f95. Känner du till om du under de senaste 12 månaderna har fått beslut fattat av en dator från kommun eller myndighet?",
+      "response_alternatives": [
+        "Ja",
+        "Nej",
+        "Vet ej"
+      ]
+    },
+    {
+      "variable": "f106",
+      "question_text": "f106. Tror du på Gud?",
+      "response_alternatives": [
+        "Ja",
+        "Nej"
+      ]
+    },
+    {
+      "variable": "f108",
+      "question_text": "f108. Hur nöjd är du på det hela taget med det liv du lever?",
+      "response_alternatives": [
+        "Mycket nöjd",
+        "Ganska nöjd",
+        "Inte särskilt nöjd",
+        "Inte alls nöjd"
+      ]
+    },
+    {
+      "variable": "f109",
+      "question_text": "f109. Hur bedömer du ditt allmänna hälsotillstånd?",
+      "response_alternatives": [
+        "0=Mycket dåligt",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10=Mycket gott"
+      ]
+    },
+    {
+      "variable": "f112",
+      "question_text": "f112. Är du medlem i något politiskt parti/förbund?",
+      "response_alternatives": [
+        "Nej",
+        "Ja",
+        "...och jag har någon typ av uppdrag"
+      ]
+    },
+    {
+      "variable": "f113",
+      "question_text": "f113. Är du medlem i någon typ av förening/organisation?",
+      "response_alternatives": [
+        "Nej",
+        "Ja",
+        "...och jag har någon typ av uppdrag"
+      ]
+    },
+    {
+      "variable": "f114",
+      "question_text": "f114. När det gäller din egen religiösa tillhörighet, identifierar du dig i första hand som…",
+      "response_alternatives": [
+        "Protestant",
+        "Katolik",
+        "Ortodox",
+        "Muslim",
+        "Agnostiker",
+        "Annat"
+      ]
+    },
+    {
+      "variable": "f121",
+      "question_text": "f121. Hur intresserad är du i allmänhet av miljöfrågor?",
+      "response_alternatives": [
+        "Mycket intresserad",
+        "Ganska intresserad",
+        "Inte särskilt intresserad",
+        "Inte alls intresserad"
+      ]
+    },
+    {
+      "variable": "f122",
+      "question_text": "f122. Vilken är din åsikt om kärnkraftens långsiktiga användning som energikälla i Sverige?",
+      "response_alternatives": [
+        "Avveckla kärnkraften snarast",
+        "Avveckla kärnkraften, men utnyttja de kärnkraftsreaktorer vi har tills de tjänat ut",
+        "Använd kärnkraften och ersätt de nuvarande reaktorerna med som mest lika många nya som idag",
+        "Använd kärnkraften och bygg fler reaktorer än de nuvarande i framtiden",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f126",
+      "question_text": "f126. Hur viktiga anser du att klimatfrågorna är jämfört med andra samhällsfrågor?",
+      "response_alternatives": [
+        "0= Inte alls lika viktiga som de flesta andra samhällsfrågor",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5= Lika viktiga som de flesta andra samhällsfrågor",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10= Mycket viktigare än de flesta andra samhällsfrågor"
+      ]
+    },
+    {
+      "variable": "f130",
+      "question_text": "f130. Hur ska åtgärder för en bättre havsmiljö finansieras i Sverige?",
+      "response_alternatives": [
+        "Generell skattehöjning",
+        "Öronmärkta skattemedel",
+        "Omfördelning av befintliga skattemedel",
+        "Skatter riktade mot de som påverkar havsmiljön negativt",
+        "Donationer från företag eller privatpersoner",
+        "Annat",
+        "Inga åtgärder bör vidtas"
+      ]
+    },
+    {
+      "variable": "f133",
+      "question_text": "f133. Vilken är din åsikt om satsningar på att bygga flera så kallade små modulära kärnkraftsreaktorer (SMR) i Sverige?",
+      "response_alternatives": [
+        "Mycket positiv",
+        "Ganska positiv",
+        "Varken positiv eller negativ",
+        "Ganska negativ",
+        "Mycket negativ",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f134",
+      "question_text": "f134. Bör det avverkas mer eller mindre skog i Sverige jämfört med idag?",
+      "response_alternatives": [
+        "Mycket mer än idag",
+        "Något mer än idag",
+        "Lika mycket som idag",
+        "Något mindre än idag",
+        "Mycket mindre än idag",
+        "Ingen uppfattning"
+      ]
+    },
+    {
+      "variable": "f137",
+      "question_text": "f137. Hur viktigt anser du att det är att skydda havsområden i Sverige, exempelvis genom skyddade områden?",
+      "response_alternatives": [
+        "Mycket viktigt",
+        "Ganska viktigt",
+        "Varken viktigt eller oviktigt",
+        "Ganska oviktigt",
+        "Mycket oviktigt"
+      ]
+    },
+    {
+      "variable": "f141",
+      "question_text": "f141. Vilket av nedanstående påståenden instämmer du mest i?",
+      "response_alternatives": [
+        "Den gröna omställningen kommer leda till att det försvinner fler jobb än vad som skapas nya",
+        "Den gröna omställningen kommer leda till att det skapas fler nya jobb än det kommer att försvinna"
+      ]
+    },
+    {
+      "variable": "f142",
+      "question_text": "f142. AI och dess effekter ? betydelse för arbetstagarnas rättigheter och inflytande?",
+      "response_alternatives": [
+        "Mycket positiv",
+        "Ganska positiv",
+        "Varken positiv eller negativ",
+        "Ganska negativ",
+        "Mycket negativ"
+      ]
+    },
+    {
+      "variable": "f144",
+      "question_text": "f144. Skulle du säga att du är optimistisk eller pessimistisk gällande den påverkan AI kommer ha?",
+      "response_alternatives": [
+        "Mycket optimistisk",
+        "Ganska optimistisk",
+        "Varken optimistisk eller pessimistisk",
+        "Ganska pessimistisk",
+        "Mycket pessimistisk"
+      ]
+    },
+    {
+      "variable": "f146",
+      "question_text": "f146. Om du tänker på de kommande 10 åren, tror du att jobb likt ditt främst kommer att utföras av människor eller robotar/AI?",
+      "response_alternatives": [
+        "Människor",
+        "Robotar/AI"
+      ]
+    },
+    {
+      "variable": "f149",
+      "question_text": "f149. Vilket är/var ditt senaste yrke?",
+      "response_alternatives": [
+        "(yrke/sysselsättning)",
+        "Har aldrig yrkesarbetat"
+      ]
+    },
+    {
+      "variable": "f150",
+      "question_text": "f150. Vilken av de här yrkesgrupperna hör/hörde du till?",
+      "response_alternatives": [
+        "Tjänsteman",
+        "Tjänsteman med arbetsledande funktion",
+        "Tjänsteman med företags-/verksamhetsledande funktion",
+        "Arbetare",
+        "Arbetare med arbetsledande funktion",
+        "Företagare: ingen anställd",
+        "Företagare: 1–9 anställda",
+        "Företagare: 10 eller fler anställda",
+        "Jordbrukare: ingen anställd",
+        "Jordbrukare: en eller flera anställda"
+      ]
+    },
+    {
+      "variable": "f151",
+      "question_text": "f151. Arbetar/arbetade du i offentlig eller privat tjänst?",
+      "response_alternatives": [
+        "Statlig",
+        "Kommunal",
+        "Landstings-/Regional",
+        "Privat",
+        "Ideell organisation/stiftelse"
+      ]
+    },
+    {
+      "variable": "f152",
+      "question_text": "f152. Är du medlem i någon arbetslöshetskassa (a-kassa)?",
+      "response_alternatives": [
+        "Ja",
+        "Nej, men har varit medlem tidigare",
+        "Nej, har aldrig varit medlem",
+        "Vet inte"
+      ]
+    },
+    {
+      "variable": "f154",
+      "question_text": "f154. Är du medlem i något fackförbund?",
+      "response_alternatives": [
+        "Ja (ange hela namnet)",
+        "Nej"
+      ]
+    },
+    {
+      "variable": "f155",
+      "question_text": "f155. Är/var din tjänst en tillsvidareanställning eller tidsbegränsad anställning?",
+      "response_alternatives": [
+        "Tillsvidare-/fast anställning",
+        "Tidsbegränsad anställning",
+        "Jag är/var egen företagare"
+      ]
+    },
+    {
+      "variable": "f156",
+      "question_text": "f156. Hur omfattande är/var din anställning?",
+      "response_alternatives": [
+        "Heltid",
+        "Deltid",
+        "Varierande"
+      ]
+    },
+    {
+      "variable": "f159",
+      "question_text": "f159. Hur bor du för närvarande?",
+      "response_alternatives": [
+        "I villa/radhus",
+        "I lägenhet/flerbostadshus",
+        "Annat boende"
+      ]
+    },
+    {
+      "variable": "f160",
+      "question_text": "f160. I vilken typ av område bor du?",
+      "response_alternatives": [
+        "Storstad: centralt",
+        "Storstad: ytterområde/förort",
+        "Stad: centralt",
+        "Stad: ytterområde",
+        "Större tätort",
+        "Mindre tätort",
+        "Ren landsbygd"
+      ]
+    },
+    {
+      "variable": "f161",
+      "question_text": "f161. Hur länge har du bott i den kommun där du bor nu?",
+      "response_alternatives": [
+        "Har alltid bott här",
+        "Har alltid bott här bortsett från kortare perioder t.ex. studier på annan ort",
+        "Uppvuxen här och har återvänt efter långvarigt boende på annan ort",
+        "Inflyttad, har bott här mer än 10 år",
+        "Inflyttad, har bott här 4-10 år",
+        "Inflyttad, har bott här 1-3 år",
+        "Inflyttad, har bott här mindre än 1 år"
+      ]
+    },
+    {
+      "variable": "f162",
+      "question_text": "f162. Hyr eller äger du eller någon i ditt hushåll din nuvarande bostad?",
+      "response_alternatives": [
+        "Äger bostaden (även bostadsrätt)",
+        "Hyr bostaden"
+      ]
+    },
+    {
+      "variable": "f163",
+      "question_text": "f163. Kön",
+      "response_alternatives": [
+        "Kvinna",
+        "Man",
+        "Annat:"
+      ]
+    },
+    {
+      "variable": "f164",
+      "question_text": "f164. Vilket år är du född?",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "f165",
+      "question_text": "f165. Medborgare",
+      "response_alternatives": [
+        "Svensk medborgare",
+        "Medborgare i annat land",
+        "Både svensk medborgare och medborgare i annat land"
+      ]
+    },
+    {
+      "variable": "f166",
+      "question_text": "f166. Vilket är ditt civilstånd?",
+      "response_alternatives": [
+        "Ensamstående/singel",
+        "I ett förhållande",
+        "Sambo",
+        "Gift/i registrerat partnerskap",
+        "Änka/änkling"
+      ]
+    },
+    {
+      "variable": "f167",
+      "question_text": "f167. Vilken är din sexuella identitet?",
+      "response_alternatives": [
+        "Heterosexuell",
+        "Bisexuell",
+        "Homosexuell",
+        "Asexuell",
+        "Annan"
+      ]
+    },
+    {
+      "variable": "f168",
+      "question_text": "f168. Var träffade du din nuvarande/senaste partner?",
+      "response_alternatives": [
+        "Via dejtingapp/hemsida",
+        "Internet (ej dejtingsajt)",
+        "På bar, restaurang eller nattklubb",
+        "Genom vänner",
+        "På arbetsplatsen",
+        "Via familjen",
+        "I skolan/högskolan/universitetet",
+        "Via hobby/föreningsliv",
+        "Som grannar",
+        "Annan plats",
+        "Ej aktuellt"
+      ]
+    },
+    {
+      "variable": "f172",
+      "question_text": "f172. Vilket språk talas huvudsakligen i ditt nuvarande hem?",
+      "response_alternatives": [
+        "Svenska",
+        "Annat språk"
+      ]
+    },
+    {
+      "variable": "f173",
+      "question_text": "f173. Vilken är din högsta skolutbildning?",
+      "response_alternatives": [
+        "Grundskola eller motsvarande, kortare än 9 år",
+        "Grundskola eller motsvarande, 9 år eller längre",
+        "Gymnasium eller motsvarande, kortare än 3 år",
+        "Gymnasium eller motsvarande, 3 år eller längre",
+        "Eftergymnasial utbildning, ej högskola/universitet, kortare än 3 år",
+        "Eftergymnasial utbildning, ej högskola/universitet, 3 år eller längre",
+        "Högskola/universitet, kortare än 3 år",
+        "Högskola/universitet, 3 år eller längre men kortare än 4 år",
+        "Högskola/universitet, 4 år eller längre",
+        "Forskarutbildning"
+      ]
+    },
+    {
+      "variable": "f174",
+      "question_text": "f174. Vilken inriktning har din utbildning i huvudsak?",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "f175",
+      "question_text": "f175. Ungefär hur stor, normalt sett, är din egen månadsinkomst före skatt?",
+      "response_alternatives": [
+        "Mindre än 10 000 kronor",
+        "10 000 – 14 999 kronor",
+        "15 000 – 19 999 kronor",
+        "20 000 – 24 999 kronor",
+        "25 000 – 29 999 kronor",
+        "30 000 – 34 999 kronor",
+        "35 000 – 39 999 kronor",
+        "40 000 – 44 999 kronor",
+        "45 000 – 49 999 kronor",
+        "50 000 – 54 999 kronor",
+        "55 000 – 59 999 kronor",
+        "60 000 – 64 999 kronor",
+        "65 000 – 69 999 kronor",
+        "70 000 – 74 999 kronor",
+        "Mer än 75 000 kronor"
+      ]
+    },
+    {
+      "variable": "f176",
+      "question_text": "f176. Sammanlagd årsinkomst i hushållet",
+      "response_alternatives": [
+        "100 000 eller mindre",
+        "101 000 - 200 000",
+        "201 000 - 300 000",
+        "301 000 - 400 000",
+        "401 000 - 500 000",
+        "501 000 - 600 000",
+        "601 000 - 700 000",
+        "701 000 - 800 000",
+        "801 000 - 900 000",
+        "901 000 - 1 000 000",
+        "1 001 000 - 1 100 000",
+        "Mer än 1 100 000"
+      ]
+    },
+    {
+      "variable": "f177",
+      "question_text": "f177. Hur klarar sig ditt hushåll på nuvarande inkomst?",
+      "response_alternatives": [
+        "Mycket bra",
+        "Ganska bra",
+        "Varken bra eller dåligt",
+        "Ganska dåligt",
+        "Mycket dåligt"
+      ]
+    },
+    {
+      "variable": "fackforb",
+      "question_text": "f154. Fackförbund (kodat svar)",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "gen10t",
+      "question_text": "Generationstillhörighet: jämna 10-tal",
+      "response_alternatives": [
+        "1910 - 1919",
+        "1920 - 1929",
+        "1930 - 1939",
+        "1940 - 1949",
+        "1950 - 1959",
+        "1960 - 1969",
+        "1970 - 1979",
+        "1980 - 1989",
+        "1990 - 1999",
+        "2000 - 2010"
+      ]
+    },
+    {
+      "variable": "genzukin",
+      "question_text": "Generationstillhörighet: efter Zukin et al 2006",
+      "response_alternatives": [
+        "1918 - 1945",
+        "1946 - 1964",
+        "1965 - 1976",
+        "1977 - 1995",
+        "1996 - 2008"
+      ]
+    },
+    {
+      "variable": "hreg",
+      "question_text": "H-region",
+      "response_alternatives": [
+        "Stockholm",
+        "Större städer",
+        "Mellanbygd",
+        "Tätbygd",
+        "Glesbygd",
+        "Göteborg",
+        "Malmö"
+      ]
+    },
+    {
+      "variable": "hushink",
+      "question_text": "Sammanlagd årsinkomst i hushållet, 3-delad (baserad på f176)",
+      "response_alternatives": [
+        "Max 300 000 kr",
+        "301 000-800 000 kr",
+        "Mer än 800 000 kr"
+      ]
+    },
+    {
+      "variable": "kommun",
+      "question_text": "Kommun",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "kulturkanon_txt",
+      "question_text": "f110. Svenskt kulturellt verk som bör vara med i kulturkanon (kodat svar)",
+      "response_alternatives": []
+    },
+    {
+      "variable": "kvppapp",
+      "question_text": "Kvällstidningsläsning på papper (minimimått, baserat på f3aa, f3ba)",
+      "response_alternatives": [
+        "Dagligen",
+        "5-6 dgr/v",
+        "3-4 dgr/v",
+        "1-2 dgr/v",
+        "Mer sällan",
+        "Aldrig"
+      ]
+    },
+    {
+      "variable": "kvpweb",
+      "question_text": "Kvällstidningsläsning på internet (minimimått, baserat på f3ab & f3bb)",
+      "response_alternatives": [
+        "Dagligen",
+        "5-6 dgr/v",
+        "3-4 dgr/v",
+        "1-2 dgr/v",
+        "Mer sällan",
+        "Aldrig"
+      ]
+    },
+    {
+      "variable": "mtidn1",
+      "question_text": "f2a. Morgontidning på papper",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "mtidn2",
+      "question_text": "f2b. Morgontidning på papper",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "mtidnp",
+      "question_text": "Morgontidningsläsning (minimimått) baserad på f2a-c inkl dagliga gratistidn om skrivet i öppna frågan, exkl. kvällstidn, webbtidn o övr ej mtidn",
+      "response_alternatives": [
+        "Dagligen",
+        "5-6 dgr/v",
+        "3-4 dgr/v",
+        "1-2 dgr/v",
+        "Mer sällan",
+        "Aldrig (baserad på f2c)"
+      ]
+    },
+    {
+      "variable": "romr",
+      "question_text": "Riksområde",
+      "response_alternatives": [
+        "Stockholm",
+        "Östra mellansverige",
+        "Småland med öarna",
+        "Sydsverige",
+        "Västsverige",
+        "Norra mellansverige",
+        "Mellersta Norrland",
+        "Övre Norrland"
+      ]
+    },
+    {
+      "variable": "samprob1",
+      "question_text": "samprob1. Vilken/vilka frågor/samhällsproblem viktigast idag?",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "samprob2",
+      "question_text": "samprob2. Vilken/vilka frågor/samhällsproblem viktigast i SV idag?",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "samprob3",
+      "question_text": "samprob3. Vilken/vilka frågor/samhällsproblem viktigast i SV idag?",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "samprob_txt",
+      "question_text": "samprob. Vilken/vilka frågor/samhällsproblem viktigast i SV idag?",
+      "response_alternatives": []
+    },
+    {
+      "variable": "sex",
+      "question_text": "Kön (svar kompl med urvalsdata)",
+      "response_alternatives": [
+        "Kvinna",
+        "Man",
+        "Annat"
+      ]
+    },
+    {
+      "variable": "ssyk",
+      "question_text": "f149. Yrke (kodat svar enl. ssyk-kodschema)",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "ssyk96",
+      "question_text": "f149. Yrke (kodat svar enl. ssyk-kodschema omvandlat till ssyk96)",
+      "response_alternatives": [
+        "öppen fråga"
+      ]
+    },
+    {
+      "variable": "Stadl2",
+      "question_text": "Stadland 2 (utifrån urvalsdata omkodning av svar 1-2 på f160 till Sthlm/Malmö/Gbg)",
+      "response_alternatives": [
+        "Ren landsbygd",
+        "Mindre tätort",
+        "Stad eller större tätort",
+        "Stockholm, Göteborg, Malmö"
+      ]
+    },
+    {
+      "variable": "Stadland",
+      "question_text": "Stadland (utifrån urvalsdata omkodning av svar 1-4 på f160 till Sthlm/Gbg/Malmö)",
+      "response_alternatives": [
+        "Ren landsbygd",
+        "Mindre tätort",
+        "Stad eller större tätort",
+        "Stockholm, Göteborg, Malmö"
+      ]
+    },
+    {
+      "variable": "utb",
+      "question_text": "Utbildning, fyrdelad (baserad på f173)",
+      "response_alternatives": [
+        "Låg",
+        "Medellåg",
+        "Medelhög",
+        "Hög"
+      ]
+    }
+  ]
+}

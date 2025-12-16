@@ -1,0 +1,21 @@
+{
+  "mån_counts": {
+    "de senaste 12 månaderna": 14,
+    "senaste 12 månaderna": 14,
+    "12 månaderna": 17,
+    "12 månader": 2,
+    "12 mån": 1
+  },
+  "mån_canonical": "12 månaderna",
+  "fortroende_counts": {
+    "förtroende för": 2,
+    "hur stort förtroende": 5
+  },
+  "hur_ofta_counts": {},
+  "hur_ofta_canonical": null,
+  "corruption_counts": {
+    "får": 16,
+    "för": 173,
+    "bör": 37
+  }
+}
